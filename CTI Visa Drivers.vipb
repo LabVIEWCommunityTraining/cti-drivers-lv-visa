@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2023-08-27 13:46:18" Modified_Date="2023-08-28 19:37:14" Creator="derri" Comments="" ID="fd42d308b27095bfd9e45cbb3620f60e">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2023-08-27 13:46:18" Modified_Date="2023-08-28 19:43:14" Creator="derri" Comments="" ID="5d3ac5d086ddfa0706a31f229917736d">
   <Library_General_Settings>
     <Package_File_Name>CTI_lib_CTI_Visa_Drivers</Package_File_Name>
-    <Library_Version>0.1.0.2</Library_Version>
+    <Library_Version>0.2.0.1</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>

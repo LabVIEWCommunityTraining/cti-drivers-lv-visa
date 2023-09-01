@@ -24,12 +24,18 @@
 			<Item Name="Digital Direction.ctl" Type="VI" URL="../Digital Direction.ctl"/>
 			<Item Name="Digital Pull Direction.ctl" Type="VI" URL="../Digital Pull Direction.ctl"/>
 			<Item Name="Identity.ctl" Type="VI" URL="../Identity.ctl"/>
+			<Item Name="Status Source.ctl" Type="VI" URL="../Status Source.ctl"/>
 		</Item>
 		<Item Name="Digital" Type="Folder">
 			<Item Name="Get Digital Value.vi" Type="VI" URL="../Get Digital Value.vi"/>
 			<Item Name="Set Digital Direction.vi" Type="VI" URL="../Set Digital Direction.vi"/>
 			<Item Name="Set Digital Output.vi" Type="VI" URL="../Set Digital Output.vi"/>
 			<Item Name="Set Digital Pulls.vi" Type="VI" URL="../Set Digital Pulls.vi"/>
+		</Item>
+		<Item Name="Status LED" Type="Folder">
+			<Item Name="Get Status Source.vi" Type="VI" URL="../Get Status Source.vi"/>
+			<Item Name="Set Status Source.vi" Type="VI" URL="../Set Status Source.vi"/>
+			<Item Name="Set User Status.vi" Type="VI" URL="../Set User Status.vi"/>
 		</Item>
 		<Item Name="Visa" Type="Folder">
 			<Item Name="Configure Serial.vi" Type="VI" URL="../Configure Serial.vi"/>

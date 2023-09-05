@@ -6,6 +6,8 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="LED Graph.vi" Type="VI" URL="../LED Graph.vi"/>
 	<Item Name="Read ADCs.vi" Type="VI" URL="../Read ADCs.vi"/>
+	<Item Name="Single GPIO.vi" Type="VI" URL="../Single GPIO.vi"/>
+	<Item Name="Single PWM.vi" Type="VI" URL="../Single PWM.vi"/>
 	<Item Name="Status LED.vi" Type="VI" URL="../Status LED.vi"/>
 	<Item Name="Test ADC Rate.vi" Type="VI" URL="../Test ADC Rate.vi"/>
 </Library>

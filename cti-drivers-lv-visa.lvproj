@@ -2,6 +2,7 @@
 <Project Type="Project" LVVersion="20008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -12,6 +13,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="CTI-Visa-Scratchpad.lvlib" Type="Library" URL="../CTI-Visa-Scratchpad/CTI-Visa-Scratchpad.lvlib"/>
+		<Item Name="CTI-Visa-Pico.lvlib" Type="Library" URL="../CTI-Visa-Pico/CTI-Visa-Pico.lvlib"/>
 		<Item Name="CTI-Visa.lvlib" Type="Library" URL="../CTI-Visa/CTI-Visa.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">

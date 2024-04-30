@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="LED Graph.vi" Type="VI" URL="../LED Graph.vi"/>
+	<Item Name="PWM Pulsate.vi" Type="VI" URL="../PWM Pulsate.vi"/>
 	<Item Name="Read ADCs.vi" Type="VI" URL="../Read ADCs.vi"/>
 	<Item Name="Single GPIO.vi" Type="VI" URL="../Single GPIO.vi"/>
 	<Item Name="Single PWM.vi" Type="VI" URL="../Single PWM.vi"/>

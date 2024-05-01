@@ -11,4 +11,5 @@
 	<Item Name="Single PWM.vi" Type="VI" URL="../Single PWM.vi"/>
 	<Item Name="Status LED.vi" Type="VI" URL="../Status LED.vi"/>
 	<Item Name="Test ADC Rate.vi" Type="VI" URL="../Test ADC Rate.vi"/>
+	<Item Name="UART Write.vi" Type="VI" URL="../UART Write.vi"/>
 </Library>

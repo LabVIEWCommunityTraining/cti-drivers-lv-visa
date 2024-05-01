@@ -38,6 +38,10 @@
 			<Item Name="Set Status Source.vi" Type="VI" URL="../Set Status Source.vi"/>
 			<Item Name="Set User Status.vi" Type="VI" URL="../Set User Status.vi"/>
 		</Item>
+		<Item Name="UART" Type="Folder">
+			<Item Name="Init UART.vi" Type="VI" URL="../Init UART.vi"/>
+			<Item Name="Write UART.vi" Type="VI" URL="../Write UART.vi"/>
+		</Item>
 		<Item Name="Visa" Type="Folder">
 			<Item Name="Configure Serial.vi" Type="VI" URL="../Configure Serial.vi"/>
 			<Item Name="Read Identity.vi" Type="VI" URL="../Read Identity.vi"/>
@@ -46,6 +50,7 @@
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="Bool String.vi" Type="VI" URL="../Bool String.vi"/>
 		<Item Name="Check Previous Error.vi" Type="VI" URL="../Check Previous Error.vi"/>
+		<Item Name="Format Block.vi" Type="VI" URL="../Format Block.vi"/>
 		<Item Name="Format Error Response.vi" Type="VI" URL="../Format Error Response.vi"/>
 		<Item Name="Read Response.vi" Type="VI" URL="../Read Response.vi"/>
 	</Item>

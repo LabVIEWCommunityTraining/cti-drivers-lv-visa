@@ -40,6 +40,7 @@
 		</Item>
 		<Item Name="UART" Type="Folder">
 			<Item Name="Init UART.vi" Type="VI" URL="../Init UART.vi"/>
+			<Item Name="Read UART.vi" Type="VI" URL="../Read UART.vi"/>
 			<Item Name="Write UART.vi" Type="VI" URL="../Write UART.vi"/>
 		</Item>
 		<Item Name="Visa" Type="Folder">

@@ -4,6 +4,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="I2C LCD.vi" Type="VI" URL="../I2C LCD.vi"/>
+	<Item Name="I2C Write.vi" Type="VI" URL="../I2C Write.vi"/>
 	<Item Name="LED Graph.vi" Type="VI" URL="../LED Graph.vi"/>
 	<Item Name="PWM Pulsate.vi" Type="VI" URL="../PWM Pulsate.vi"/>
 	<Item Name="Read ADCs.vi" Type="VI" URL="../Read ADCs.vi"/>

@@ -16,6 +16,7 @@
 		<Item Name="Data Types" Type="Folder">
 			<Item Name="Digital Direction.ctl" Type="VI" URL="../Digital Direction.ctl"/>
 			<Item Name="Digital Pull Direction.ctl" Type="VI" URL="../Digital Pull Direction.ctl"/>
+			<Item Name="I2C Options.ctl" Type="VI" URL="../I2C Options.ctl"/>
 			<Item Name="Identity.ctl" Type="VI" URL="../Identity.ctl"/>
 			<Item Name="Status Source.ctl" Type="VI" URL="../Status Source.ctl"/>
 		</Item>
@@ -24,6 +25,11 @@
 			<Item Name="Set Digital Direction.vi" Type="VI" URL="../Set Digital Direction.vi"/>
 			<Item Name="Set Digital Output.vi" Type="VI" URL="../Set Digital Output.vi"/>
 			<Item Name="Set Digital Pulls.vi" Type="VI" URL="../Set Digital Pulls.vi"/>
+		</Item>
+		<Item Name="I2C" Type="Folder">
+			<Item Name="Init I2C.vi" Type="VI" URL="../Init I2C.vi"/>
+			<Item Name="Read I2C.vi" Type="VI" URL="../Read I2C.vi"/>
+			<Item Name="Write I2C.vi" Type="VI" URL="../Write I2C.vi"/>
 		</Item>
 		<Item Name="PWM" Type="Folder">
 			<Item Name="Get PWM Duty.vi" Type="VI" URL="../Get PWM Duty.vi"/>
@@ -53,6 +59,7 @@
 		<Item Name="Check Previous Error.vi" Type="VI" URL="../Check Previous Error.vi"/>
 		<Item Name="Format Block.vi" Type="VI" URL="../Format Block.vi"/>
 		<Item Name="Format Error Response.vi" Type="VI" URL="../Format Error Response.vi"/>
+		<Item Name="Read Block.vi" Type="VI" URL="../Read Block.vi"/>
 		<Item Name="Read Response.vi" Type="VI" URL="../Read Response.vi"/>
 	</Item>
 </Library>

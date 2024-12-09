@@ -15,6 +15,7 @@
 		<Item Name="CTI-Visa-Scratchpad.lvlib" Type="Library" URL="../CTI-Visa-Scratchpad/CTI-Visa-Scratchpad.lvlib"/>
 		<Item Name="CTI-Visa-Pico.lvlib" Type="Library" URL="../CTI-Visa-Pico/CTI-Visa-Pico.lvlib"/>
 		<Item Name="CTI-Visa.lvlib" Type="Library" URL="../CTI-Visa/CTI-Visa.lvlib"/>
+		<Item Name="CTI-Visa-DeviceLib.lvlib" Type="Library" URL="../CTI-Visa-DeviceLib/CTI-Visa-DeviceLib.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
@@ -55,6 +56,7 @@
 				<Item Name="VISA Configure Serial Port (Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Instr).vi"/>
 				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
+				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>

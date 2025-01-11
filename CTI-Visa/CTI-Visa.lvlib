@@ -33,6 +33,7 @@
 			<Item Name="Init I2C.vi" Type="VI" URL="../Init I2C.vi"/>
 			<Item Name="Read I2C.vi" Type="VI" URL="../Read I2C.vi"/>
 			<Item Name="Write I2C.vi" Type="VI" URL="../Write I2C.vi"/>
+			<Item Name="WriteRead I2C.vi" Type="VI" URL="../WriteRead I2C.vi"/>
 		</Item>
 		<Item Name="PWM" Type="Folder">
 			<Item Name="Get PWM Duty.vi" Type="VI" URL="../Get PWM Duty.vi"/>

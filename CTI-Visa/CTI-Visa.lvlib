@@ -71,5 +71,6 @@
 		<Item Name="Format Error Response.vi" Type="VI" URL="../Format Error Response.vi"/>
 		<Item Name="Read Block.vi" Type="VI" URL="../Read Block.vi"/>
 		<Item Name="Read Response.vi" Type="VI" URL="../Read Response.vi"/>
+		<Item Name="Read to Char.vi" Type="VI" URL="../Read to Char.vi"/>
 	</Item>
 </Library>

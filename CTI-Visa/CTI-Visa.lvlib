@@ -44,6 +44,10 @@
 			<Item Name="Set PWM Frequency.vi" Type="VI" URL="../Set PWM Frequency.vi"/>
 		</Item>
 		<Item Name="SPI" Type="Folder">
+			<Item Name="CS Pin" Type="Folder">
+				<Item Name="Init SPI CS Pin.vi" Type="VI" URL="../Init SPI CS Pin.vi"/>
+				<Item Name="Set SPI CS Pin.vi" Type="VI" URL="../Set SPI CS Pin.vi"/>
+			</Item>
 			<Item Name="Init SPI.vi" Type="VI" URL="../Init SPI.vi"/>
 			<Item Name="Read SPI.vi" Type="VI" URL="../Read SPI.vi"/>
 			<Item Name="Write SPI.vi" Type="VI" URL="../Write SPI.vi"/>

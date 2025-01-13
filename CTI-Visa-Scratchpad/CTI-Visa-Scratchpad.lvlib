@@ -6,6 +6,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="I2C LCD Full.vi" Type="VI" URL="../I2C LCD Full.vi"/>
 	<Item Name="I2C LCD Hello.vi" Type="VI" URL="../I2C LCD Hello.vi"/>
+	<Item Name="I2C LCD Raw ADC.vi" Type="VI" URL="../I2C LCD Raw ADC.vi"/>
 	<Item Name="I2C Write.vi" Type="VI" URL="../I2C Write.vi"/>
 	<Item Name="LED Graph.vi" Type="VI" URL="../LED Graph.vi"/>
 	<Item Name="PWM Pulsate.vi" Type="VI" URL="../PWM Pulsate.vi"/>

@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="23008000">
+<Project Type="Project" LVVersion="20008000">
+	<Property Name="NI.LV.All.SaveVersion" Type="Str">23.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
@@ -17,6 +18,9 @@
 		<Item Name="CTI-Visa-Pico.lvlib" Type="Library" URL="../CTI-Visa-Pico/CTI-Visa-Pico.lvlib"/>
 		<Item Name="CTI-Visa.lvlib" Type="Library" URL="../CTI-Visa/CTI-Visa.lvlib"/>
 		<Item Name="CTI-Visa-DeviceLib.lvlib" Type="Library" URL="../CTI-Visa-DeviceLib/CTI-Visa-DeviceLib.lvlib"/>
+		<Item Name="CTI.lvlib" Type="Library" URL="../CTI/CTI.lvlib"/>
+		<Item Name="CTI-Scratchpad.lvlib" Type="Library" URL="../CTI-Scratchpad/CTI-Scratchpad.lvlib"/>
+		<Item Name="CTI-Device.lvlib" Type="Library" URL="../CTI-Device/CTI-Device.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>

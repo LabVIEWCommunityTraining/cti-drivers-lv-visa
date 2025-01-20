@@ -7,30 +7,36 @@
 
 </Property>
 	<Item Name="Base" Type="Folder">
+		<Item Name="DeviceComms.lvclass" Type="LVClass" URL="../DeviceComms/DeviceComms.lvclass"/>
 		<Item Name="I2C Device.lvclass" Type="LVClass" URL="../I2C Device/I2C Device.lvclass"/>
 		<Item Name="Resource.lvclass" Type="LVClass" URL="../Resource/Resource.lvclass"/>
-		<Item Name="Session.lvclass" Type="LVClass" URL="../Session/Session.lvclass"/>
 		<Item Name="SPI Device.lvclass" Type="LVClass" URL="../SPI Device/SPI Device.lvclass"/>
 	</Item>
 	<Item Name="Data Types" Type="Folder">
 		<Item Name="ADC Number.ctl" Type="VI" URL="../ADC Number.ctl"/>
+		<Item Name="Error Reporting.ctl" Type="VI" URL="../Error Reporting.ctl"/>
 		<Item Name="GPIO Direction.ctl" Type="VI" URL="../GPIO Direction.ctl"/>
 		<Item Name="GPIO Number.ctl" Type="VI" URL="../GPIO Number.ctl"/>
 		<Item Name="GPIO Pull.ctl" Type="VI" URL="../GPIO Pull.ctl"/>
 		<Item Name="I2C Address.ctl" Type="VI" URL="../I2C Address.ctl"/>
 		<Item Name="I2C Number.ctl" Type="VI" URL="../I2C Number.ctl"/>
+		<Item Name="Identity.ctl" Type="VI" URL="../Identity.ctl"/>
 		<Item Name="Raw ADC.ctl" Type="VI" URL="../Raw ADC.ctl"/>
+		<Item Name="Resource Info.ctl" Type="VI" URL="../Resource Info.ctl"/>
 		<Item Name="SPI Config.ctl" Type="VI" URL="../SPI Config.ctl"/>
 		<Item Name="SPI Mode.ctl" Type="VI" URL="../SPI Mode.ctl"/>
 		<Item Name="SPI Number.ctl" Type="VI" URL="../SPI Number.ctl"/>
 		<Item Name="UART Number.ctl" Type="VI" URL="../UART Number.ctl"/>
 	</Item>
-	<Item Name="AnalogIn.lvclass" Type="LVClass" URL="../AnalogIn/AnalogIn.lvclass"/>
-	<Item Name="GPIO.lvclass" Type="LVClass" URL="../GPIO/GPIO.lvclass"/>
-	<Item Name="I2C.lvclass" Type="LVClass" URL="../I2C/I2C.lvclass"/>
-	<Item Name="PWM.lvclass" Type="LVClass" URL="../PWM/PWM.lvclass"/>
-	<Item Name="SPI CS.lvclass" Type="LVClass" URL="../SPI CS/SPI CS.lvclass"/>
-	<Item Name="SPI.lvclass" Type="LVClass" URL="../SPI/SPI.lvclass"/>
-	<Item Name="UART.lvclass" Type="LVClass" URL="../UART/UART.lvclass"/>
-	<Item Name="VisaSession.lvclass" Type="LVClass" URL="../VisaSession/VisaSession.lvclass"/>
+	<Item Name="Resources" Type="Folder">
+		<Item Name="AI.lvclass" Type="LVClass" URL="../AI/AI.lvclass"/>
+		<Item Name="GPIO.lvclass" Type="LVClass" URL="../GPIO/GPIO.lvclass"/>
+		<Item Name="I2C.lvclass" Type="LVClass" URL="../I2C/I2C.lvclass"/>
+		<Item Name="PWM.lvclass" Type="LVClass" URL="../PWM/PWM.lvclass"/>
+		<Item Name="SPI CS.lvclass" Type="LVClass" URL="../SPI CS/SPI CS.lvclass"/>
+		<Item Name="SPI.lvclass" Type="LVClass" URL="../SPI/SPI.lvclass"/>
+		<Item Name="UART.lvclass" Type="LVClass" URL="../UART/UART.lvclass"/>
+	</Item>
+	<Item Name="Session.lvclass" Type="LVClass" URL="../Session/Session.lvclass"/>
+	<Item Name="VisaComms.lvclass" Type="LVClass" URL="../VisaComms/VisaComms.lvclass"/>
 </Library>

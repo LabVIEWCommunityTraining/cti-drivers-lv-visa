@@ -14,13 +14,15 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="CTI-Visa-Scratchpad.lvlib" Type="Library" URL="../CTI-Visa-Scratchpad/CTI-Visa-Scratchpad.lvlib"/>
-		<Item Name="CTI-Visa-Pico.lvlib" Type="Library" URL="../CTI-Visa-Pico/CTI-Visa-Pico.lvlib"/>
-		<Item Name="CTI-Visa.lvlib" Type="Library" URL="../CTI-Visa/CTI-Visa.lvlib"/>
-		<Item Name="CTI-Visa-DeviceLib.lvlib" Type="Library" URL="../CTI-Visa-DeviceLib/CTI-Visa-DeviceLib.lvlib"/>
+		<Item Name="Old" Type="Folder">
+			<Item Name="CTI-Visa-Scratchpad.lvlib" Type="Library" URL="../CTI-Visa-Scratchpad/CTI-Visa-Scratchpad.lvlib"/>
+			<Item Name="CTI-Visa-Pico.lvlib" Type="Library" URL="../CTI-Visa-Pico/CTI-Visa-Pico.lvlib"/>
+			<Item Name="CTI-Visa.lvlib" Type="Library" URL="../CTI-Visa/CTI-Visa.lvlib"/>
+			<Item Name="CTI-Visa-DeviceLib.lvlib" Type="Library" URL="../CTI-Visa-DeviceLib/CTI-Visa-DeviceLib.lvlib"/>
+		</Item>
 		<Item Name="CTI.lvlib" Type="Library" URL="../CTI/CTI.lvlib"/>
 		<Item Name="CTI-Scratchpad.lvlib" Type="Library" URL="../CTI-Scratchpad/CTI-Scratchpad.lvlib"/>
-		<Item Name="CTI-Device.lvlib" Type="Library" URL="../CTI-Device/CTI-Device.lvlib"/>
+		<Item Name="CTI-Peripheral.lvlib" Type="Library" URL="../CTI-Peripheral/CTI-Peripheral.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
@@ -63,7 +65,11 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
 				<Item Name="Trim Whitespace One-Sided.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace One-Sided.vi"/>
+				<Item Name="VISA Open Access Mode.ctl" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Open Access Mode.ctl"/>
+				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>
 			</Item>
+			<Item Name="Init.vi" Type="VI" URL="../CTI/VisaSession/Init.vi"/>
+			<Item Name="VisaComms.lvclass" Type="LVClass" URL="../CTI/VisaSession/VisaComms.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

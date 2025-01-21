@@ -8,12 +8,16 @@
 </Property>
 	<Item Name="Base" Type="Folder">
 		<Item Name="DeviceComms.lvclass" Type="LVClass" URL="../DeviceComms/DeviceComms.lvclass"/>
-		<Item Name="I2C Device.lvclass" Type="LVClass" URL="../I2C Device/I2C Device.lvclass"/>
+		<Item Name="I2C Peripheral.lvclass" Type="LVClass" URL="../I2C Device/I2C Peripheral.lvclass"/>
 		<Item Name="Resource.lvclass" Type="LVClass" URL="../Resource/Resource.lvclass"/>
-		<Item Name="SPI Device.lvclass" Type="LVClass" URL="../SPI Device/SPI Device.lvclass"/>
+		<Item Name="SPI Peripheral.lvclass" Type="LVClass" URL="../SPI Device/SPI Peripheral.lvclass"/>
 	</Item>
 	<Item Name="Data Types" Type="Folder">
 		<Item Name="ADC Number.ctl" Type="VI" URL="../ADC Number.ctl"/>
+		<Item Name="Available AI.ctl" Type="VI" URL="../Available AI.ctl"/>
+		<Item Name="Available I2C.ctl" Type="VI" URL="../Available I2C.ctl"/>
+		<Item Name="Available SPI.ctl" Type="VI" URL="../Available SPI.ctl"/>
+		<Item Name="Available UART.ctl" Type="VI" URL="../Available UART.ctl"/>
 		<Item Name="Error Reporting.ctl" Type="VI" URL="../Error Reporting.ctl"/>
 		<Item Name="GPIO Direction.ctl" Type="VI" URL="../GPIO Direction.ctl"/>
 		<Item Name="GPIO Number.ctl" Type="VI" URL="../GPIO Number.ctl"/>

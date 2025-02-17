@@ -22,7 +22,6 @@
 		</Item>
 		<Item Name="CTI.lvlib" Type="Library" URL="../CTI/CTI.lvlib"/>
 		<Item Name="CTI-Scratchpad.lvlib" Type="Library" URL="../CTI-Scratchpad/CTI-Scratchpad.lvlib"/>
-		<Item Name="CTI-Peripheral.lvlib" Type="Library" URL="../CTI-Peripheral/CTI-Peripheral.lvlib"/>
 		<Item Name="CTI-Tools.lvlib" Type="Library" URL="../CTI-Tools/CTI-Tools.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -71,7 +70,6 @@
 			</Item>
 			<Item Name="Init.vi" Type="VI" URL="../CTI/VisaSession/Init.vi"/>
 			<Item Name="VisaComms.lvclass" Type="LVClass" URL="../CTI/VisaSession/VisaComms.lvclass"/>
-			<Item Name="Set Resource Purpose.vi" Type="VI" URL="../CTI/Resource/Set Resource Purpose.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

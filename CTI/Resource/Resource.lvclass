@@ -77,6 +77,15 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">268967952</Property>
 	</Item>
+	<Item Name="Set Resource Purpose.vi" Type="VI" URL="../Set Resource Purpose.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$N!!!!"1!%!!!!.%"Q!"Y!!"Q*1V2*,GRW&lt;'FC%&amp;*F=W^V=G.F,GRW9WRB=X-!!!R3:8.P&gt;8*D:3"P&gt;81!!"J!-0````]15G6T&lt;X6S9W5A5(6S='^T:1!!-E"Q!"Y!!"Q*1V2*,GRW&lt;'FC%&amp;*F=W^V=G.F,GRW9WRB=X-!!!N3:8.P&gt;8*D:3"J&lt;A"B!0!!$!!!!!!!!!!"!!!!!!!!!!!!!!!!!!)!!Q)!!(A!!!!!!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!%!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1074536960</Property>
+	</Item>
 	<Item Name="Unreserve.vi" Type="VI" URL="../Unreserve.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%Q!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$2!=!!?!!!=#5.533ZM&gt;GRJ9B"3:8.P&gt;8*D:3ZM&gt;G.M98.T!!!-5G6T&lt;X6S9W5A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$*!=!!?!!!=#5.533ZM&gt;GRJ9B"3:8.P&gt;8*D:3ZM&gt;G.M98.T!!!,5G6T&lt;X6S9W5A;7Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!=#!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

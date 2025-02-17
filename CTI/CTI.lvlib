@@ -24,13 +24,16 @@
 		<Item Name="GPIO Pull.ctl" Type="VI" URL="../GPIO Pull.ctl"/>
 		<Item Name="I2C Address.ctl" Type="VI" URL="../I2C Address.ctl"/>
 		<Item Name="I2C Number.ctl" Type="VI" URL="../I2C Number.ctl"/>
+		<Item Name="I2C Pins.ctl" Type="VI" URL="../I2C Pins.ctl"/>
 		<Item Name="Identity.ctl" Type="VI" URL="../Identity.ctl"/>
 		<Item Name="Raw ADC.ctl" Type="VI" URL="../Raw ADC.ctl"/>
 		<Item Name="Resource Info.ctl" Type="VI" URL="../Resource Info.ctl"/>
 		<Item Name="SPI Config.ctl" Type="VI" URL="../SPI Config.ctl"/>
 		<Item Name="SPI Mode.ctl" Type="VI" URL="../SPI Mode.ctl"/>
 		<Item Name="SPI Number.ctl" Type="VI" URL="../SPI Number.ctl"/>
+		<Item Name="SPI Pins.ctl" Type="VI" URL="../SPI Pins.ctl"/>
 		<Item Name="UART Number.ctl" Type="VI" URL="../UART Number.ctl"/>
+		<Item Name="UART Pins.ctl" Type="VI" URL="../UART Pins.ctl"/>
 	</Item>
 	<Item Name="Resources" Type="Folder">
 		<Item Name="AI.lvclass" Type="LVClass" URL="../AI/AI.lvclass"/>
@@ -40,6 +43,9 @@
 		<Item Name="SPI CS.lvclass" Type="LVClass" URL="../SPI CS/SPI CS.lvclass"/>
 		<Item Name="SPI.lvclass" Type="LVClass" URL="../SPI/SPI.lvclass"/>
 		<Item Name="UART.lvclass" Type="LVClass" URL="../UART/UART.lvclass"/>
+	</Item>
+	<Item Name="Utilities" Type="Folder">
+		<Item Name="Generate Error.vi" Type="VI" URL="../Generate Error.vi"/>
 	</Item>
 	<Item Name="Session.lvclass" Type="LVClass" URL="../Session/Session.lvclass"/>
 	<Item Name="VisaComms.lvclass" Type="LVClass" URL="../VisaComms/VisaComms.lvclass"/>

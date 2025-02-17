@@ -71,6 +71,7 @@
 			</Item>
 			<Item Name="Init.vi" Type="VI" URL="../CTI/VisaSession/Init.vi"/>
 			<Item Name="VisaComms.lvclass" Type="LVClass" URL="../CTI/VisaSession/VisaComms.lvclass"/>
+			<Item Name="Set Resource Purpose.vi" Type="VI" URL="../CTI/Resource/Set Resource Purpose.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

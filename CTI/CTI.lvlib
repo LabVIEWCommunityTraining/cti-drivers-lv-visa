@@ -32,6 +32,7 @@
 		<Item Name="SPI Mode.ctl" Type="VI" URL="../SPI Mode.ctl"/>
 		<Item Name="SPI Number.ctl" Type="VI" URL="../SPI Number.ctl"/>
 		<Item Name="SPI Pins.ctl" Type="VI" URL="../SPI Pins.ctl"/>
+		<Item Name="Status Source.ctl" Type="VI" URL="../Status Source.ctl"/>
 		<Item Name="UART Config.ctl" Type="VI" URL="../UART Config.ctl"/>
 		<Item Name="UART Number.ctl" Type="VI" URL="../UART Number.ctl"/>
 		<Item Name="UART Pins.ctl" Type="VI" URL="../UART Pins.ctl"/>

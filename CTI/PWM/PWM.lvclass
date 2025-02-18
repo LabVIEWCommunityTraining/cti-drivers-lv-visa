@@ -26,6 +26,15 @@
 	<Item Name="PWM.ctl" Type="Class Private Data" URL="PWM.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="Create.vi" Type="VI" URL="../Create.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%.!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#B!=!!?!!!8#5.533ZM&gt;GRJ9AN16UUO&lt;(:D&lt;'&amp;T=Q!(5&amp;&gt;.)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#B!=!!?!!!9#5.533ZM&gt;GRJ9AR(5%F0,GRW9WRB=X-!!!2(5%F0!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!"!)!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!3!!!!!!!!!!!"!!A!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+	</Item>
 	<Item Name="Get Resource ID.vi" Type="VI" URL="../Get Resource ID.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#%!!!!"!!%!!!!+%"Q!"Y!!"=*1V2*,GRW&lt;'FC#V"843ZM&gt;G.M98.T!!:16UUA;7Y!!"2!-0````],5G6T&lt;X6S9W5A351!0!$Q!!A!!!!!!!!!!!!"!!!!!!!#!A!!91!!!!!!!!!!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!E!!!!!!1!$!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

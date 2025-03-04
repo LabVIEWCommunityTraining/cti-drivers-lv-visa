@@ -4,9 +4,13 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="LCD" Type="Folder">
-		<Item Name="Char LCD.lvclass" Type="LVClass" URL="../Character LCD/Char LCD.lvclass"/>
+		<Item Name="Base" Type="Folder">
+			<Item Name="Char LCD.lvclass" Type="LVClass" URL="../Character LCD/Char LCD.lvclass"/>
+		</Item>
+		<Item Name="Support" Type="Folder">
+			<Item Name="HD44780 LCD.lvlib" Type="Library" URL="../HD44780 LCD/HD44780 LCD.lvlib"/>
+		</Item>
 		<Item Name="Grove I2C LCD.lvclass" Type="LVClass" URL="../Grove I2C LCD/Grove I2C LCD.lvclass"/>
-		<Item Name="HD44780 LCD.lvclass" Type="LVClass" URL="../HD44780 LCD/HD44780 LCD.lvclass"/>
 		<Item Name="PCF8574 I2C LCD.lvclass" Type="LVClass" URL="../PCF8574 I2C LCD/PCF8574 I2C LCD.lvclass"/>
 	</Item>
 	<Item Name="Low Level" Type="Folder"/>

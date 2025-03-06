@@ -69,8 +69,6 @@
 				<Item Name="VISA Open Access Mode.ctl" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Open Access Mode.ctl"/>
 				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>
 			</Item>
-			<Item Name="Init.vi" Type="VI" URL="../CTI/VisaSession/Init.vi"/>
-			<Item Name="VisaComms.lvclass" Type="LVClass" URL="../CTI/VisaSession/VisaComms.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

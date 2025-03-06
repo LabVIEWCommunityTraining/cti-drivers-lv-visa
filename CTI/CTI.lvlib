@@ -37,14 +37,17 @@
 		<Item Name="UART Number.ctl" Type="VI" URL="../UART Number.ctl"/>
 		<Item Name="UART Pins.ctl" Type="VI" URL="../UART Pins.ctl"/>
 	</Item>
-	<Item Name="Resources" Type="Folder">
-		<Item Name="AI.lvclass" Type="LVClass" URL="../AI/AI.lvclass"/>
-		<Item Name="GPIO.lvclass" Type="LVClass" URL="../GPIO/GPIO.lvclass"/>
-		<Item Name="I2C.lvclass" Type="LVClass" URL="../I2C/I2C.lvclass"/>
-		<Item Name="PWM.lvclass" Type="LVClass" URL="../PWM/PWM.lvclass"/>
-		<Item Name="SPI CS.lvclass" Type="LVClass" URL="../SPI CS/SPI CS.lvclass"/>
-		<Item Name="SPI.lvclass" Type="LVClass" URL="../SPI/SPI.lvclass"/>
-		<Item Name="UART.lvclass" Type="LVClass" URL="../UART/UART.lvclass"/>
+	<Item Name="Private" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Resources" Type="Folder">
+			<Item Name="AI.lvclass" Type="LVClass" URL="../AI/AI.lvclass"/>
+			<Item Name="GPIO.lvclass" Type="LVClass" URL="../GPIO/GPIO.lvclass"/>
+			<Item Name="I2C.lvclass" Type="LVClass" URL="../I2C/I2C.lvclass"/>
+			<Item Name="PWM.lvclass" Type="LVClass" URL="../PWM/PWM.lvclass"/>
+			<Item Name="SPI CS.lvclass" Type="LVClass" URL="../SPI CS/SPI CS.lvclass"/>
+			<Item Name="SPI.lvclass" Type="LVClass" URL="../SPI/SPI.lvclass"/>
+			<Item Name="UART.lvclass" Type="LVClass" URL="../UART/UART.lvclass"/>
+		</Item>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="Generate Error.vi" Type="VI" URL="../Generate Error.vi"/>

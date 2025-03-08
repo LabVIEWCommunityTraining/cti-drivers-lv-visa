@@ -412,6 +412,15 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">8388624</Property>
 			</Item>
+			<Item Name="Clean Visa Errors.vi" Type="VI" URL="../Clean Visa Errors.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%S!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$2!=!!?!!!&gt;#5.533ZM&gt;GRJ9B&amp;7;8.B1W^N&lt;8-O&lt;(:D&lt;'&amp;T=Q!.6GFT95.P&lt;7VT)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$2!=!!?!!!&gt;#5.533ZM&gt;GRJ9B&amp;7;8.B1W^N&lt;8-O&lt;(:D&lt;'&amp;T=Q!-6GFT95.P&lt;7VT)'FO!!"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q)!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!)!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+			</Item>
 			<Item Name="Format Block.vi" Type="VI" URL="../Format Block.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"O!!!!"!!%!!!!$E!Q`````Q2%982B!!!91$$`````$U:P=GVB&gt;(2F:#"#&lt;'^D;Q!]!0!!#!!!!!!!!!!!!!%!!!!!!!)#!!"B!!!!!!!!!!!!!!!!!!!!!!!"%A!!!!!!!!!!!!!!$11!!!!"!!-!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -451,11 +460,11 @@
 			<Item Name="Write Visa.vi" Type="VI" URL="../Write Visa.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;&lt;!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!".!"Q!-=G6U&gt;8*O)'.P&gt;7ZU!!!U1(!!(A!!(1F$6%EO&lt;(:M;7)26GFT95.P&lt;7VT,GRW9WRB=X-!$6:J=W&amp;$&lt;WVN=S"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!71$$`````$(&gt;S;82F)'*V:G:F=A!!.%"Q!"Y!!"U*1V2*,GRW&lt;'FC%6:J=W&amp;$&lt;WVN=SZM&gt;G.M98.T!!R7;8.B1W^N&lt;8-A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!#!!*!Q!!?!!!$1A!!!!!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!"!!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!I!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">32</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">8388624</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">268967952</Property>
 			</Item>
 		</Item>
 		<Item Name="Cleanup.vi" Type="VI" URL="../Cleanup.vi">

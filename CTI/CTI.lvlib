@@ -9,7 +9,6 @@
 	<Item Name="Base" Type="Folder">
 		<Item Name="DeviceComms.lvclass" Type="LVClass" URL="../DeviceComms/DeviceComms.lvclass"/>
 		<Item Name="I2C Peripheral.lvclass" Type="LVClass" URL="../I2C Device/I2C Peripheral.lvclass"/>
-		<Item Name="Resource.lvclass" Type="LVClass" URL="../Resource/Resource.lvclass"/>
 		<Item Name="SPI Peripheral.lvclass" Type="LVClass" URL="../SPI Device/SPI Peripheral.lvclass"/>
 	</Item>
 	<Item Name="Data Types" Type="Folder">
@@ -48,6 +47,7 @@
 			<Item Name="SPI.lvclass" Type="LVClass" URL="../SPI/SPI.lvclass"/>
 			<Item Name="UART.lvclass" Type="LVClass" URL="../UART/UART.lvclass"/>
 		</Item>
+		<Item Name="Resource.lvclass" Type="LVClass" URL="../Resource/Resource.lvclass"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="Generate Error.vi" Type="VI" URL="../Generate Error.vi"/>

@@ -11,16 +11,14 @@
 	<Item Name="I2C LCD Raw ADC.vi" Type="VI" URL="../I2C LCD Raw ADC.vi"/>
 	<Item Name="I2C Write.vi" Type="VI" URL="../I2C Write.vi"/>
 	<Item Name="LED Graph.vi" Type="VI" URL="../LED Graph.vi"/>
-	<Item Name="PWM Pulsate (Direct).vi" Type="VI" URL="../PWM Pulsate (Direct).vi"/>
-	<Item Name="PWM Pulsate (Session).vi" Type="VI" URL="../PWM Pulsate (Session).vi"/>
+	<Item Name="PWM Pulsate.vi" Type="VI" URL="../PWM Pulsate.vi"/>
 	<Item Name="Read ADCs.vi" Type="VI" URL="../Read ADCs.vi"/>
 	<Item Name="Single GPIO.vi" Type="VI" URL="../Single GPIO.vi"/>
 	<Item Name="Single PWM.vi" Type="VI" URL="../Single PWM.vi"/>
 	<Item Name="SPI MPU9250.vi" Type="VI" URL="../SPI MPU9250.vi"/>
 	<Item Name="SPI Write Byte.vi" Type="VI" URL="../SPI Write Byte.vi"/>
 	<Item Name="Status LED.vi" Type="VI" URL="../Status LED.vi"/>
-	<Item Name="Test ADC Rate (Direct).vi" Type="VI" URL="../Test ADC Rate (Direct).vi"/>
-	<Item Name="Test ADC Rate (Session).vi" Type="VI" URL="../Test ADC Rate (Session).vi"/>
+	<Item Name="Test ADC Rate.vi" Type="VI" URL="../Test ADC Rate.vi"/>
 	<Item Name="UART Read.vi" Type="VI" URL="../UART Read.vi"/>
 	<Item Name="UART Write.vi" Type="VI" URL="../UART Write.vi"/>
 </Library>

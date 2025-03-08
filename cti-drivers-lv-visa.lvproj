@@ -63,8 +63,16 @@
 				<Item Name="VISA Open Access Mode.ctl" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Open Access Mode.ctl"/>
 				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>
 			</Item>
-			<Item Name="CTI-Visa.lvlib" Type="Library" URL="../CTI-Visa/CTI-Visa.lvlib"/>
-			<Item Name="CTI-Visa-DeviceLib.lvlib" Type="Library" URL="../CTI-Visa-DeviceLib/CTI-Visa-DeviceLib.lvlib"/>
+			<Item Name="Position.ctl" Type="VI" URL="../CTI-Visa-DeviceLib/LCD-I2C/Position.ctl"/>
+			<Item Name="Custom Char.ctl" Type="VI" URL="../CTI-Visa-DeviceLib/LCD-I2C/Custom Char.ctl"/>
+			<Item Name="Scroll Left.vi" Type="VI" URL="../CTI-Visa-DeviceLib/LCD-I2C/Scroll Left.vi"/>
+			<Item Name="Scroll Right.vi" Type="VI" URL="../CTI-Visa-DeviceLib/LCD-I2C/Scroll Right.vi"/>
+			<Item Name="LCD Size.ctl" Type="VI" URL="../CTI-Visa-DeviceLib/LCD-I2C/LCD Size.ctl"/>
+			<Item Name="I2C Options.ctl" Type="VI" URL="../CTI-Visa/I2C Options.ctl"/>
+			<Item Name="Init.vi" Type="VI" URL="../CTI-Visa-DeviceLib/LCD-I2C/Init.vi"/>
+			<Item Name="Write Position.vi" Type="VI" URL="../CTI-Visa-DeviceLib/LCD-I2C/Write Position.vi"/>
+			<Item Name="Write Text.vi" Type="VI" URL="../CTI-Visa-DeviceLib/LCD-I2C/Write Text.vi"/>
+			<Item Name="Reset MPU9250 SPI.vi" Type="VI" URL="../CTI-Visa-DeviceLib/Reset MPU9250 SPI.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

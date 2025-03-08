@@ -14,12 +14,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Old" Type="Folder">
-			<Item Name="CTI-Visa-Scratchpad.lvlib" Type="Library" URL="../CTI-Visa-Scratchpad/CTI-Visa-Scratchpad.lvlib"/>
-			<Item Name="CTI-Visa-Pico.lvlib" Type="Library" URL="../CTI-Visa-Pico/CTI-Visa-Pico.lvlib"/>
-			<Item Name="CTI-Visa.lvlib" Type="Library" URL="../CTI-Visa/CTI-Visa.lvlib"/>
-			<Item Name="CTI-Visa-DeviceLib.lvlib" Type="Library" URL="../CTI-Visa-DeviceLib/CTI-Visa-DeviceLib.lvlib"/>
-		</Item>
 		<Item Name="CTI.lvlib" Type="Library" URL="../CTI/CTI.lvlib"/>
 		<Item Name="CTI-Scratchpad.lvlib" Type="Library" URL="../CTI-Scratchpad/CTI-Scratchpad.lvlib"/>
 		<Item Name="CTI-Tools.lvlib" Type="Library" URL="../CTI-Tools/CTI-Tools.lvlib"/>
@@ -69,6 +63,8 @@
 				<Item Name="VISA Open Access Mode.ctl" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Open Access Mode.ctl"/>
 				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>
 			</Item>
+			<Item Name="CTI-Visa.lvlib" Type="Library" URL="../CTI-Visa/CTI-Visa.lvlib"/>
+			<Item Name="CTI-Visa-DeviceLib.lvlib" Type="Library" URL="../CTI-Visa-DeviceLib/CTI-Visa-DeviceLib.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

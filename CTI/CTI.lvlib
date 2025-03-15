@@ -51,6 +51,7 @@
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="Generate Error.vi" Type="VI" URL="../Generate Error.vi"/>
+		<Item Name="Trim Whitespace.vi" Type="VI" URL="../Trim Whitespace.vi"/>
 	</Item>
 	<Item Name="Session.lvclass" Type="LVClass" URL="../Session/Session.lvclass"/>
 	<Item Name="VisaComms.lvclass" Type="LVClass" URL="../VisaComms/VisaComms.lvclass"/>

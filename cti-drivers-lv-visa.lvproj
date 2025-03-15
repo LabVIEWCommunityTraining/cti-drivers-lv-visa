@@ -14,6 +14,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="palettes" Type="Folder" URL="../palettes">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="CTI.lvlib" Type="Library" URL="../CTI/CTI.lvlib"/>
 		<Item Name="CTI-Scratchpad.lvlib" Type="Library" URL="../CTI-Scratchpad/CTI-Scratchpad.lvlib"/>
 		<Item Name="CTI-Tools.lvlib" Type="Library" URL="../CTI-Tools/CTI-Tools.lvlib"/>
@@ -62,6 +65,7 @@
 				<Item Name="VISA Open Access Mode.ctl" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Open Access Mode.ctl"/>
 				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>
 				<Item Name="Trim Whitespace One-Sided.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace One-Sided.vi"/>
+				<Item Name="Color to RGB.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/Color to RGB.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>

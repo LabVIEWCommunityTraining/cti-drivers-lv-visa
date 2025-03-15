@@ -2,6 +2,12 @@
 <LVClass LVVersion="20008000">
 	<Property Name="NI.Lib.ContainingLib" Type="Str">CTI.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../CTI.lvlib</Property>
+	<Property Name="NI.Lib.Description" Type="Str">Abstracts the communications implementations available for CTI firmware devices. The VIs in this interface define the functionality that should be available for most/all CTI firmware devices and therefore allow higher level code to be portable across devices and communication implementations.
+
+Child classes that inherit this interface will provide their own initialization VI(s) specific to their communication configuration details.
+
+While the VIs defined in this interface can be used directly, the intended usage is via a Session instance. For example, the VisaComm class which provides SCPI protocol implementation using Visa, has an Init.vi that returns a Session instance instead of a VisaComm instance. See the Session class for more details on this.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*,!!!*Q(C=\&gt;1R&lt;NN!%)8BFS"&amp;7NUA5*NSCM#^LK!L4*%,K&amp;IEJ@J5=Q5&amp;0A&amp;\6V/\%+!,O&amp;$J-MS`[R&amp;D.[K3)%#]V&amp;,5W_8/*Z+A..J\[:VU?\5RX+YU:D27;G08N^:`D.XY&lt;HW]09WUSYT;D=]SLG7]N?8YZ@F02]]7K@&amp;,`89J`&lt;,_V8;LV`&lt;;`O`W^=M]`ZCPN$^0?#0V/P/=^+!\X&gt;2,TUG?Z%G?Z%G?Z%%?Z%%?Z%%?Z%\OZ%\OZ%\OZ%:OZ%:OZ%:OZ'-D&amp;\H)21YJ+:Y53B:.&amp;EAG1V'S3TS**`%E(HYK]33?R*.Y%A^4F(A34_**0)G(UZ2Y%E`C34S*B[7'*-&gt;'DC@RM,Q#4_!*0)%H]&amp;"3A3=!"-7#B9.&amp;9#A9$!Y#4_!*0"QK]!3?Q".Y!A`$#DS"*`!%HM$$+?/KR.$UD2Q0S]DR/"\(YXA=$UP,]4A?R_.Y(!`FZ(A=DY.Q#DK,1Z"TED0"_?&amp;Y(!^@=DS/R`%Y(M@$U,B$0KZ-V`3.()`B-4S'R`!9(J;1Y4%]BM@Q'"[7F?%R0)&lt;(]"A?3MHQ'"\$9U#-IJ38M:BRID(*#!Q0H`'UW,B,-31W.KE?8N6$K8L96!_2[O&amp;1X846T64&gt;*.8&amp;6VV5V=638146HV/B62B6%&gt;8*@;,/\%`UC8[A\_E\_J;_I;`JKX\K&lt;ZZY0J^V/JUU4:-/BY0W_\VWOZWWW[UWGYX7[\67K^8S'PD!NLQ1@LW8\D\?4-?(_W`(TY`@DY`XU^WHG_HPP*@_B8?DXOJZ(;\24X&gt;M)[1!!!!!</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
@@ -180,13 +186,13 @@
 	</Item>
 	<Item Name="PWM" Type="Folder">
 		<Item Name="PWM Init.vi" Type="VI" URL="../PWM Init.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!''!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$B!=!!?!!!@#5.533ZM&gt;GRJ9B.%:8:J9W6$&lt;WVN=SZM&gt;G.M98.T!!^%:8:J9W6$&lt;WVN=S"P&gt;81!&amp;E!B%6"I98.F,5.P=H*F9X1A+%9J!$-!]1!!!!!!!!!##5.533ZM&gt;GRJ9A^(5%F0)%ZV&lt;7*F=CZD&gt;'Q!%5!"!!:(5%F0)#-!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%%!B#E6O97*M:3!I2CE!!$B!=!!?!!!@#5.533ZM&gt;GRJ9B.%:8:J9W6$&lt;WVN=SZM&gt;G.M98.T!!Z%:8:J9W6$&lt;WVN=S"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!9!"!!(!!A!"!!*!!I#!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!"!!!!!!!!!!%!!!!!A!!!!!!!!!%!!!!*!!!!!!!1!,!!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!''!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$B!=!!?!!!@#5.533ZM&gt;GRJ9B.%:8:J9W6$&lt;WVN=SZM&gt;G.M98.T!!^%:8:J9W6$&lt;WVN=S"P&gt;81!&amp;E!B%6"I98.F,5.P=H*F9X1A+%9J!$-!]1!!!!!!!!!##5.533ZM&gt;GRJ9A^(5%F0)%ZV&lt;7*F=CZD&gt;'Q!%5!"!!:(5%F0)#-!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%%!B#E6O97*M:3!I2CE!!$B!=!!?!!!@#5.533ZM&gt;GRJ9B.%:8:J9W6$&lt;WVN=SZM&gt;G.M98.T!!Z%:8:J9W6$&lt;WVN=S"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!9!"!!(!!A!"!!*!!I#!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!A!!!!!!!!!%!!!!!A!!!!!!!!!#!!!!*!!!!!!!1!,!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">150995072</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 		</Item>
 		<Item Name="PWM Read Duty.vi" Type="VI" URL="../PWM Read Duty.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;T!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!".!#1!-2(6U?3!F)#AQ,4%J!!!Y1(!!(A!!(QF$6%EO&lt;(:M;7)42'6W;7.F1W^N&lt;8-O&lt;(:D&lt;'&amp;T=Q!02'6W;7.F1W^N&lt;8-A&lt;X6U!$-!]1!!!!!!!!!##5.533ZM&gt;GRJ9A^(5%F0)%ZV&lt;7*F=CZD&gt;'Q!%5!"!!:(5%F0)#-!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!/%"Q!"Y!!"]*1V2*,GRW&lt;'FC%U2F&gt;GFD:5.P&lt;7VT,GRW9WRB=X-!$E2F&gt;GFD:5.P&lt;7VT)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!=!#!!%!!1!#1)!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!1!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!I!!!!!</Property>

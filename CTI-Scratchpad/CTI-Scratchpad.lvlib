@@ -12,6 +12,7 @@
 	<Item Name="I2C Write.vi" Type="VI" URL="../I2C Write.vi"/>
 	<Item Name="LED Graph.vi" Type="VI" URL="../LED Graph.vi"/>
 	<Item Name="PWM Pulsate.vi" Type="VI" URL="../PWM Pulsate.vi"/>
+	<Item Name="PWM RGB LED.vi" Type="VI" URL="../PWM RGB LED.vi"/>
 	<Item Name="Read ADCs.vi" Type="VI" URL="../Read ADCs.vi"/>
 	<Item Name="Single GPIO.vi" Type="VI" URL="../Single GPIO.vi"/>
 	<Item Name="Single PWM.vi" Type="VI" URL="../Single PWM.vi"/>

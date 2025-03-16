@@ -8,8 +8,8 @@
 </Property>
 	<Item Name="Base" Type="Folder">
 		<Item Name="DeviceComms.lvclass" Type="LVClass" URL="../DeviceComms/DeviceComms.lvclass"/>
-		<Item Name="I2C Peripheral.lvclass" Type="LVClass" URL="../I2C Peripheral/I2C Peripheral.lvclass"/>
-		<Item Name="SPI Peripheral.lvclass" Type="LVClass" URL="../SPI Peripheral/SPI Peripheral.lvclass"/>
+		<Item Name="I2C Connection.lvclass" Type="LVClass" URL="../I2C Connection/I2C Connection.lvclass"/>
+		<Item Name="SPI Connection.lvclass" Type="LVClass" URL="../SPI Connection/SPI Connection.lvclass"/>
 	</Item>
 	<Item Name="Data Types" Type="Folder">
 		<Item Name="ADC Number.ctl" Type="VI" URL="../ADC Number.ctl"/>

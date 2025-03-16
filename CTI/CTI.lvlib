@@ -8,8 +8,6 @@
 </Property>
 	<Item Name="Base" Type="Folder">
 		<Item Name="DeviceComms.lvclass" Type="LVClass" URL="../DeviceComms/DeviceComms.lvclass"/>
-		<Item Name="I2C Connection.lvclass" Type="LVClass" URL="../I2C Connection/I2C Connection.lvclass"/>
-		<Item Name="SPI Connection.lvclass" Type="LVClass" URL="../SPI Connection/SPI Connection.lvclass"/>
 	</Item>
 	<Item Name="Data Types" Type="Folder">
 		<Item Name="ADC Number.ctl" Type="VI" URL="../ADC Number.ctl"/>
@@ -53,6 +51,8 @@
 		<Item Name="Generate Error.vi" Type="VI" URL="../Generate Error.vi"/>
 		<Item Name="Trim Whitespace.vi" Type="VI" URL="../Trim Whitespace.vi"/>
 	</Item>
+	<Item Name="I2C Connection.lvclass" Type="LVClass" URL="../I2C Connection/I2C Connection.lvclass"/>
 	<Item Name="Session.lvclass" Type="LVClass" URL="../Session/Session.lvclass"/>
+	<Item Name="SPI Connection.lvclass" Type="LVClass" URL="../SPI Connection/SPI Connection.lvclass"/>
 	<Item Name="VisaComms.lvclass" Type="LVClass" URL="../VisaComms/VisaComms.lvclass"/>
 </Library>

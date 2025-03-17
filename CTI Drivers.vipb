@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-03-08 13:18:34" Modified_Date="2025-03-16 09:34:42" Creator="derri" Comments="" ID="916efd4831aa9b24e80f068e522aa81d">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-03-08 13:18:34" Modified_Date="2025-03-16 17:50:00" Creator="derri" Comments="" ID="bdff5cf6d5555a176a7735df7f6d785c">
   <Library_General_Settings>
     <Package_File_Name>CTI_lib_CTI_Drivers</Package_File_Name>
-    <Library_Version>0.9.4.14</Library_Version>
+    <Library_Version>0.9.5.19</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\vip</Library_Output_Folder>
@@ -33,6 +33,9 @@
       <Packager>Derrick Bommarito</Packager>
       <URL>https://github.com/LabVIEWCommunityTraining/cti-drivers-lv-visa</URL>
       <Release_Notes>Beta release
+
+0.9.5.18
+- Got the VI titles to cooperate in the palettes
 
 0.9.4.11
 - Update I2C/SPI Connection icons
@@ -276,7 +279,7 @@
         <Path>Peripherals</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B808A79B77CE2B628E77460C4FF30EDB</GUID>
+      <GUID>9C9EC15FDEEF990548F69C421E3DB6A6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -423,7 +426,7 @@
         <Path>CTI\Session\Acquire DeviceComms.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2EE317AB203F5AB420DFC9C326605C14</GUID>
+      <GUID>50D376531F190F65D350763B6149E0A7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -626,7 +629,7 @@
         <Path>CTI\Session\PWM Read Frequency.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1C050F28716CA71655CAE6B70783B9BD</GUID>
+      <GUID>4F055AD00EE838A2364768E0F0551277</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -815,7 +818,7 @@
         <Path>Wrappers</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>432F0951587E8F8AA937779AAB5FB9DC</GUID>
+      <GUID>F7281C723A5767F21BF11B121ABD533A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -850,7 +853,7 @@
         <Path>LCD</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>599E05E20F0348E30D1B39C5B9C89791</GUID>
+      <GUID>718B1A45EF306917E1BF90CC395EBBE4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -885,7 +888,7 @@
         <Path>Character LCD</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D98CD3222B15BCD7B93FDCFBFBB13728</GUID>
+      <GUID>6E01FCA9034BD490DF65A12DBA0ACF83</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -906,34 +909,6 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path/>
       </Synchronization_Info>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Init.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>CTI-Peripheral\PCF8574 I2C LCD\Init.vi</Path>
-        <VI_Title>PCF8574 LCD Init</VI_Title>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Init.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>CTI-Peripheral\Grove I2C LCD\Init.vi</Path>
-        <VI_Title>Grove LCD Init</VI_Title>
-      </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
@@ -1021,6 +996,20 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Grove I2C LCD Init</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>1</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>CTI-Peripheral\Grove I2C LCD\Init.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Write Text.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1074,7 +1063,21 @@
         <Path>CTI-Peripheral\Character LCD\Create All Custom Chars.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1D0C308A354A5B7C8210F2F1A4A10592</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>PCF8574 I2C LCD Init</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>CTI-Peripheral\PCF8574 I2C LCD\Init.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>7B3E12F9D0706D74F4F0F86D098ACDBA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1095,20 +1098,6 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path/>
       </Synchronization_Info>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>SPI Connection Init</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>CTI\SPI Connection\Init.vi</Path>
-        <VI_Title/>
-      </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
@@ -1135,20 +1124,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>CTI\SPI Connection\Read Register.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>I2C Connection Init</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>CTI\I2C Connection\Init.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -1221,7 +1196,35 @@
         <Path>CTI\SPI Connection\WriteRead Data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BCB3E496BAEC11BF4557140588D0D8A9</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>I2C Connection Init</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>1</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>CTI\I2C Connection\Init.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>SPI Connection Init</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>1</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>CTI\SPI Connection\Init.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>38D3768D0939E345D4398151C847BE5E</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -1270,7 +1273,7 @@
         <Path>CTI-Peripheral</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9C1775D9969A02AA1C72A104CEBD7B62</GUID>
+      <GUID>CFC3465E9667FDE220B2D22D57216D12</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1627,7 +1630,7 @@
         <Path>palettes\Session Class.vi</Path>
         <VI_Title>Session Class</VI_Title>
       </Items_Data>
-      <GUID>A6D5A261BC8AA25B3D42D75A7238B49B</GUID>
+      <GUID>27AFFA51A0102CD5A1A2FD5E7E5C1899</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1662,7 +1665,7 @@
         <Path>CTI-Peripheral\Character LCD</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>73A0DBD767AD612BFCE88C44FCA18BA0</GUID>
+      <GUID>DFDE83159561F0E451763331F05562DF</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1837,7 +1840,7 @@
         <Path>palettes\PCF8574 I2C LCD Class.vi</Path>
         <VI_Title>PCF8574 I2C LCD Class</VI_Title>
       </Items_Data>
-      <GUID>80E73A9C930AD8623D053C3DB0C1B074</GUID>
+      <GUID>E2F89013C2C93158E6CED05858581EF9</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

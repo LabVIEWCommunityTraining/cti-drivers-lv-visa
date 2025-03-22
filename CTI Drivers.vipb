@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-03-08 13:18:34" Modified_Date="2025-03-16 17:50:00" Creator="derri" Comments="" ID="bdff5cf6d5555a176a7735df7f6d785c">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-03-08 13:18:34" Modified_Date="2025-03-21 22:41:40" Creator="derri" Comments="" ID="eb8313712b2e27a29dbab4e5ea58b569">
   <Library_General_Settings>
     <Package_File_Name>CTI_lib_CTI_Drivers</Package_File_Name>
-    <Library_Version>0.9.5.19</Library_Version>
+    <Library_Version>0.9.6.20</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\vip</Library_Output_Folder>
@@ -32,24 +32,11 @@
       <Copyright/>
       <Packager>Derrick Bommarito</Packager>
       <URL>https://github.com/LabVIEWCommunityTraining/cti-drivers-lv-visa</URL>
-      <Release_Notes>Beta release
+      <Release_Notes>Beta release, VIs are still being documented and small changes may occur before 1.0
 
-0.9.5.18
-- Got the VI titles to cooperate in the palettes
-
-0.9.4.11
-- Update I2C/SPI Connection icons
-- Add I2C/SPI Connection to VI names in palettes
-
-0.9.3.9
-- Rename "Peripheral" classes to "Connection"
-- Move Connection wrapper classes to Comms subpalette
-
-0.9.2.8
-- Internalize Session instance for peripherals
-
-0.9.1.6
-- Controls Palettes</Release_Notes>
+0.9.6.19
+- VI documentation for all public session VIs
+</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -279,7 +266,7 @@
         <Path>Peripherals</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9C9EC15FDEEF990548F69C421E3DB6A6</GUID>
+      <GUID>1739B0549F8F3BCAAB3CDE00C3CEFEFE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -426,7 +413,7 @@
         <Path>CTI\Session\Acquire DeviceComms.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>50D376531F190F65D350763B6149E0A7</GUID>
+      <GUID>D3447E910CBE7E42EAF3D4B4DE4FF14C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -629,7 +616,7 @@
         <Path>CTI\Session\PWM Read Frequency.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4F055AD00EE838A2364768E0F0551277</GUID>
+      <GUID>920CE55E7B9F657488E7210E66744D2A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -818,7 +805,7 @@
         <Path>Wrappers</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F7281C723A5767F21BF11B121ABD533A</GUID>
+      <GUID>505A4DE0BFE6B0925BDEABB10371BCCA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -853,7 +840,7 @@
         <Path>LCD</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>718B1A45EF306917E1BF90CC395EBBE4</GUID>
+      <GUID>CF3FF454F24834D2B22C4543EFD0EAE3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -888,7 +875,7 @@
         <Path>Character LCD</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6E01FCA9034BD490DF65A12DBA0ACF83</GUID>
+      <GUID>14360CC71BFA14E19D339412FC6A9A3A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -1077,7 +1064,7 @@
         <Path>CTI-Peripheral\PCF8574 I2C LCD\Init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7B3E12F9D0706D74F4F0F86D098ACDBA</GUID>
+      <GUID>5550DE505CF7ED394614DB0E0AD655D8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1224,7 +1211,7 @@
         <Path>CTI\SPI Connection\Init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>38D3768D0939E345D4398151C847BE5E</GUID>
+      <GUID>8A4D87FF2E345EE9F34D42C5EA7F9738</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -1273,7 +1260,7 @@
         <Path>CTI-Peripheral</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CFC3465E9667FDE220B2D22D57216D12</GUID>
+      <GUID>C230A1590790A194997FDAB928F1C325</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1630,7 +1617,7 @@
         <Path>palettes\Session Class.vi</Path>
         <VI_Title>Session Class</VI_Title>
       </Items_Data>
-      <GUID>27AFFA51A0102CD5A1A2FD5E7E5C1899</GUID>
+      <GUID>4B9C6EDFD1C9F1162E8EE60EA0FDA995</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1665,7 +1652,7 @@
         <Path>CTI-Peripheral\Character LCD</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DFDE83159561F0E451763331F05562DF</GUID>
+      <GUID>CB203D435807EDD4FB9EE4E1DA6B5B61</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1840,7 +1827,7 @@
         <Path>palettes\PCF8574 I2C LCD Class.vi</Path>
         <VI_Title>PCF8574 I2C LCD Class</VI_Title>
       </Items_Data>
-      <GUID>E2F89013C2C93158E6CED05858581EF9</GUID>
+      <GUID>F40570DF1FEC15EDEEDABDB9B02AFDDE</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

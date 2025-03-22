@@ -51,8 +51,10 @@
 		<Item Name="Generate Error.vi" Type="VI" URL="../Generate Error.vi"/>
 		<Item Name="Trim Whitespace.vi" Type="VI" URL="../Trim Whitespace.vi"/>
 	</Item>
-	<Item Name="I2C Connection.lvclass" Type="LVClass" URL="../I2C Connection/I2C Connection.lvclass"/>
+	<Item Name="Wrappers" Type="Folder">
+		<Item Name="I2C Connection.lvclass" Type="LVClass" URL="../I2C Connection/I2C Connection.lvclass"/>
+		<Item Name="SPI Connection.lvclass" Type="LVClass" URL="../SPI Connection/SPI Connection.lvclass"/>
+	</Item>
 	<Item Name="Session.lvclass" Type="LVClass" URL="../Session/Session.lvclass"/>
-	<Item Name="SPI Connection.lvclass" Type="LVClass" URL="../SPI Connection/SPI Connection.lvclass"/>
 	<Item Name="VisaComms.lvclass" Type="LVClass" URL="../VisaComms/VisaComms.lvclass"/>
 </Library>

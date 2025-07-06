@@ -1,0 +1,12 @@
+{
+  "Info":{
+    "Name":"git:cti-drivers-lv-visa",
+    "Type":"git",
+    "Host":"git@github.com:LabVIEWCommunityTraining/cti-drivers-lv-visa.git",
+    "Path":"",
+    "Branch":"main",
+    "Version":"d5e9a54565e08b2be56acdbc7944868b3bbc145b",
+    "License":""
+  },
+  "Dependencies":[]
+}

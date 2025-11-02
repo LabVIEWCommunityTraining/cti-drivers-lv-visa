@@ -88,13 +88,13 @@ While the VIs defined in this interface can be used directly, the intended usage
 	</Item>
 	<Item Name="GPIO" Type="Folder">
 		<Item Name="GPIO Init.vi" Type="VI" URL="../GPIO Init.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(X!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$B!=!!?!!!@#5.533ZM&gt;GRJ9B.%:8:J9W6$&lt;WVN=SZM&gt;G.M98.T!!^%:8:J9W6$&lt;WVN=S"P&gt;81!-Q$R!!!!!!!!!!)*1V2*,GRW&lt;'FC$U&gt;135]A4H6N9G6S,G.U&lt;!!21!%!"E&gt;135]A)Q!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"0!0%!!!!!!!!!!AF$6%EO&lt;(:M;7).2V"*4S"1&gt;7RM,G.U&lt;!!P1"9!"!2/&lt;WZF!F6Q"%2P&gt;WY%1G^U;!!12V"*4S"1&gt;7RM)#B/&lt;WZF+1!!3!$R!!!!!!!!!!)*1V2*,GRW&lt;'FC%E&gt;135]A2'FS:7.U;7^O,G.U&lt;!!D1"9!!A**&lt;A.0&gt;81!!!^(5%F0)%2J=G6D&gt;'FP&lt;C!!/%"Q!"Y!!"]*1V2*,GRW&lt;'FC%U2F&gt;GFD:5.P&lt;7VT,GRW9WRB=X-!$E2F&gt;GFD:5.P&lt;7VT)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!9!"Q!)!!E!#A)!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!1!!!!#!!!!"!!!!!1!!!!E!!!!!!"!!M!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(X!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$B!=!!?!!!@#5.533ZM&gt;GRJ9B.%:8:J9W6$&lt;WVN=SZM&gt;G.M98.T!!^%:8:J9W6$&lt;WVN=S"P&gt;81!-Q$R!!!!!!!!!!)*1V2*,GRW&lt;'FC$U&gt;135]A4H6N9G6S,G.U&lt;!!21!%!"E&gt;135]A)Q!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"0!0%!!!!!!!!!!AF$6%EO&lt;(:M;7).2V"*4S"1&gt;7RM,G.U&lt;!!P1"9!"!2/&lt;WZF!F6Q"%2P&gt;WY%1G^U;!!12V"*4S"1&gt;7RM)#B/&lt;WZF+1!!3!$R!!!!!!!!!!)*1V2*,GRW&lt;'FC%E&gt;135]A2'FS:7.U;7^O,G.U&lt;!!D1"9!!A**&lt;A.0&gt;81!!!^(5%F0)%2J=G6D&gt;'FP&lt;C!!/%"Q!"Y!!"]*1V2*,GRW&lt;'FC%U2F&gt;GFD:5.P&lt;7VT,GRW9WRB=X-!$E2F&gt;GFD:5.P&lt;7VT)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!9!"Q!)!!E!#A)!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!1!!!!#!!!!!A!!!!1!!!!E!!!!!!"!!M!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">150995072</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 		</Item>
 		<Item Name="GPIO Read Value.vi" Type="VI" URL="../GPIO Read Value.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;O!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!J!)16797RV:1![1(!!(A!!(QF$6%EO&lt;(:M;7)42'6W;7.F1W^N&lt;8-O&lt;(:D&lt;'&amp;T=Q!22GFS&lt;8&gt;B=G6$&lt;WVN=S"P&gt;81!-Q$R!!!!!!!!!!)*1V2*,GRW&lt;'FC$U&gt;135]A4H6N9G6S,G.U&lt;!!21!%!"E&gt;135]A)Q!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1![1(!!(A!!(QF$6%EO&lt;(:M;7)42'6W;7.F1W^N&lt;8-O&lt;(:D&lt;'&amp;T=Q!12GFS&lt;8&gt;B=G6$&lt;WVN=S"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!(!!A!"!!%!!E#!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!%!!!!!A!!!!!!!!!!!!!!*!!!!!!!1!+!!!!!!</Property>
@@ -144,31 +144,31 @@ While the VIs defined in this interface can be used directly, the intended usage
 			<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 		</Item>
 		<Item Name="I2C Read Data.vi" Type="VI" URL="../I2C Read Data.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'X!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!Q`````Q2%982B!!!%!!!!/%"Q!"Y!!"]*1V2*,GRW&lt;'FC%U2F&gt;GFD:5.P&lt;7VT,GRW9WRB=X-!$U2F&gt;GFD:5.P&lt;7VT)'^V&gt;!!T!0(DW6B)!!!!!AF$6%EO&lt;(:M;7)034*$)%&amp;E:(*F=X-O9X2M!"&amp;!"1!(172E=G6T=Q!11#%+4G^4&gt;'^Q)#B'+1!!-!$R!!!!!!!!!!)*1V2*,GRW&lt;'FC$EES1S"/&gt;7VC:8)O9X2M!!^!!1!&amp;34*$)#-!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!*1!5!!URF&lt;A!Y1(!!(A!!(QF$6%EO&lt;(:M;7)42'6W;7.F1W^N&lt;8-O&lt;(:D&lt;'&amp;T=Q!/2'6W;7.F1W^N&lt;8-A;7Y!!&amp;1!]!!-!!-!"!!&amp;!!9!"1!(!!A!#1!+!!M!"1!-!A!!?!!!$1A!!!E!!!!!!!!!D1M!!!!!!!!1!!!!%!!!!"!!!!!)!!!!%!!!!!!!!!#1!!!!!!%!$1!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'X!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!Q`````Q2%982B!!!%!!!!/%"Q!"Y!!"]*1V2*,GRW&lt;'FC%U2F&gt;GFD:5.P&lt;7VT,GRW9WRB=X-!$U2F&gt;GFD:5.P&lt;7VT)'^V&gt;!!T!0(DW6B)!!!!!AF$6%EO&lt;(:M;7)034*$)%&amp;E:(*F=X-O9X2M!"&amp;!"1!(172E=G6T=Q!11#%+4G^4&gt;'^Q)#B'+1!!-!$R!!!!!!!!!!)*1V2*,GRW&lt;'FC$EES1S"/&gt;7VC:8)O9X2M!!^!!1!&amp;34*$)#-!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!*1!5!!URF&lt;A!Y1(!!(A!!(QF$6%EO&lt;(:M;7)42'6W;7.F1W^N&lt;8-O&lt;(:D&lt;'&amp;T=Q!/2'6W;7.F1W^N&lt;8-A;7Y!!&amp;1!]!!-!!-!"!!&amp;!!9!"1!(!!A!#1!+!!M!"1!-!A!!?!!!$1A!!!E!!!!!!!!!D1M!!!!!!!!1!!!!#!!!!"!!!!!)!!!!%!!!!!!!!!#1!!!!!!%!$1!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1350574592</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 		</Item>
 		<Item Name="I2C Write Data.vi" Type="VI" URL="../I2C Write Data.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'O!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$B!=!!?!!!@#5.533ZM&gt;GRJ9B.%:8:J9W6$&lt;WVN=SZM&gt;G.M98.T!!^%:8:J9W6$&lt;WVN=S"P&gt;81!-Q$RY^F93!!!!!)*1V2*,GRW&lt;'FC$UES1S"":'2S:8.T,G.U&lt;!!21!5!"U&amp;E:(*F=X-!%%!B#EZP5X2P=#!I2CE!!$!!]1!!!!!!!!!##5.533ZM&gt;GRJ9AZ*-E-A4H6N9G6S,G.U&lt;!!01!%!"5ES1S!D!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$E!Q`````Q2%982B!!!Y1(!!(A!!(QF$6%EO&lt;(:M;7)42'6W;7.F1W^N&lt;8-O&lt;(:D&lt;'&amp;T=Q!/2'6W;7.F1W^N&lt;8-A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!'!!=!#!!*!!1!#A!,!A!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!1!!!!%!!!!"!!!!!)!!!!!!!!!B!!!!#1!!!!!!%!$!!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'O!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$B!=!!?!!!@#5.533ZM&gt;GRJ9B.%:8:J9W6$&lt;WVN=SZM&gt;G.M98.T!!^%:8:J9W6$&lt;WVN=S"P&gt;81!-Q$RY^F93!!!!!)*1V2*,GRW&lt;'FC$UES1S"":'2S:8.T,G.U&lt;!!21!5!"U&amp;E:(*F=X-!%%!B#EZP5X2P=#!I2CE!!$!!]1!!!!!!!!!##5.533ZM&gt;GRJ9AZ*-E-A4H6N9G6S,G.U&lt;!!01!%!"5ES1S!D!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$E!Q`````Q2%982B!!!Y1(!!(A!!(QF$6%EO&lt;(:M;7)42'6W;7.F1W^N&lt;8-O&lt;(:D&lt;'&amp;T=Q!/2'6W;7.F1W^N&lt;8-A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!'!!=!#!!*!!1!#A!,!A!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!1!!!!#!!!!"!!!!!)!!!!!!!!!B!!!!#1!!!!!!%!$!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1350574592</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 		</Item>
 		<Item Name="I2C WriteRead Data.vi" Type="VI" URL="../I2C WriteRead Data.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(0!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%E!Q`````QF3:7&amp;E)%2B&gt;'%!"!!!!$B!=!!?!!!@#5.533ZM&gt;GRJ9B.%:8:J9W6$&lt;WVN=SZM&gt;G.M98.T!!^%:8:J9W6$&lt;WVN=S"P&gt;81!-Q$RY^F93!!!!!)*1V2*,GRW&lt;'FC$UES1S"":'2S:8.T,G.U&lt;!!21!5!"U&amp;E:(*F=X-!%%!B#EZP5X2P=#!I2CE!!$!!]1!!!!!!!!!##5.533ZM&gt;GRJ9AZ*-E-A4H6N9G6S,G.U&lt;!!01!%!"5ES1S!D!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!#5!&amp;!!.-:7Y!&amp;%!Q`````QJ8=GFU:3"%982B!!!Y1(!!(A!!(QF$6%EO&lt;(:M;7)42'6W;7.F1W^N&lt;8-O&lt;(:D&lt;'&amp;T=Q!/2'6W;7.F1W^N&lt;8-A;7Y!!&amp;1!]!!-!!-!"!!&amp;!!9!"1!(!!A!#1!+!!M!$!!.!A!!?!!!$1A!!!E!!!!!!!!!D1M!!!!!!!!1!!!!%!!!!"!!!!!)!!!!%!!!!B!!!!#1!!!!!!%!$A!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(0!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%E!Q`````QF3:7&amp;E)%2B&gt;'%!"!!!!$B!=!!?!!!@#5.533ZM&gt;GRJ9B.%:8:J9W6$&lt;WVN=SZM&gt;G.M98.T!!^%:8:J9W6$&lt;WVN=S"P&gt;81!-Q$RY^F93!!!!!)*1V2*,GRW&lt;'FC$UES1S"":'2S:8.T,G.U&lt;!!21!5!"U&amp;E:(*F=X-!%%!B#EZP5X2P=#!I2CE!!$!!]1!!!!!!!!!##5.533ZM&gt;GRJ9AZ*-E-A4H6N9G6S,G.U&lt;!!01!%!"5ES1S!D!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!#5!&amp;!!.-:7Y!&amp;%!Q`````QJ8=GFU:3"%982B!!!Y1(!!(A!!(QF$6%EO&lt;(:M;7)42'6W;7.F1W^N&lt;8-O&lt;(:D&lt;'&amp;T=Q!/2'6W;7.F1W^N&lt;8-A;7Y!!&amp;1!]!!-!!-!"!!&amp;!!9!"1!(!!A!#1!+!!M!$!!.!A!!?!!!$1A!!!E!!!!!!!!!D1M!!!!!!!!1!!!!#!!!!"!!!!!)!!!!%!!!!B!!!!#1!!!!!!%!$A!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1350574592</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 		</Item>
 	</Item>
 	<Item Name="Properties" Type="Folder">
@@ -322,7 +322,7 @@ While the VIs defined in this interface can be used directly, the intended usage
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1117782528</Property>
 		</Item>
 		<Item Name="SPI WriteRead Data.vi" Type="VI" URL="../SPI WriteRead Data.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'$!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%E!Q`````QF3:7&amp;E)%2B&gt;'%!"!!!!$B!=!!?!!!@#5.533ZM&gt;GRJ9B.%:8:J9W6$&lt;WVN=SZM&gt;G.M98.T!!^%:8:J9W6$&lt;WVN=S"P&gt;81!-!$R!!!!!!!!!!)*1V2*,GRW&lt;'FC$F.133"/&gt;7VC:8)O9X2M!!^!!1!&amp;5V"*)#-!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51$$`````#F&gt;S;82F)%2B&gt;'%!!$B!=!!?!!!@#5.533ZM&gt;GRJ9B.%:8:J9W6$&lt;WVN=SZM&gt;G.M98.T!!Z%:8:J9W6$&lt;WVN=S"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!(!!A!"1!*!!I#!!"Y!!!.#!!!#1!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!%!!!!!A!!!!!!!!#%!!!!*!!!!!!!1!,!!!!!!</Property>
@@ -331,7 +331,7 @@ While the VIs defined in this interface can be used directly, the intended usage
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1117782528</Property>
 		</Item>
 	</Item>
 	<Item Name="UART" Type="Folder">
@@ -342,16 +342,16 @@ While the VIs defined in this interface can be used directly, the intended usage
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1117782528</Property>
 		</Item>
 		<Item Name="UART Read Data.vi" Type="VI" URL="../UART Read Data.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'$!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!Q`````Q2%982B!!!%!!!!/%"Q!"Y!!"]*1V2*,GRW&lt;'FC%U2F&gt;GFD:5.P&lt;7VT,GRW9WRB=X-!$U2F&gt;GFD:5.P&lt;7VT)'^V&gt;!!T!0%!!!!!!!!!!AF$6%EO&lt;(:M;7)065&amp;36#"/&gt;7VC:8)O9X2M!"&amp;!!1!'65&amp;36#!D!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"6!"1!/4'6O)#B-;7ZF6'6S&lt;3E!!$B!=!!?!!!@#5.533ZM&gt;GRJ9B.%:8:J9W6$&lt;WVN=SZM&gt;G.M98.T!!Z%:8:J9W6$&lt;WVN=S"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!(!!A!#1!&amp;!!I#!!"Y!!!.#!!!#1!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!%!!!!!A!!!!1!!!!!!!!!*!!!!!!!1!,!!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'$!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!Q`````Q2%982B!!!%!!!!/%"Q!"Y!!"]*1V2*,GRW&lt;'FC%U2F&gt;GFD:5.P&lt;7VT,GRW9WRB=X-!$U2F&gt;GFD:5.P&lt;7VT)'^V&gt;!!T!0%!!!!!!!!!!AF$6%EO&lt;(:M;7)065&amp;36#"/&gt;7VC:8)O9X2M!"&amp;!!1!'65&amp;36#!D!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"6!"1!/4'6O)#B-;7ZF6'6S&lt;3E!!$B!=!!?!!!@#5.533ZM&gt;GRJ9B.%:8:J9W6$&lt;WVN=SZM&gt;G.M98.T!!Z%:8:J9W6$&lt;WVN=S"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!(!!A!#1!&amp;!!I#!!"Y!!!.#!!!#1!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!%!!!!!A!!!!)!!!!!!!!!*!!!!!!!1!,!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">150995072</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 		</Item>
 		<Item Name="UART Write Data.vi" Type="VI" URL="../UART Write Data.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;O!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$B!=!!?!!!@#5.533ZM&gt;GRJ9B.%:8:J9W6$&lt;WVN=SZM&gt;G.M98.T!!^%:8:J9W6$&lt;WVN=S"P&gt;81!-Q$R!!!!!!!!!!)*1V2*,GRW&lt;'FC$V6"5F1A4H6N9G6S,G.U&lt;!!21!%!"F6"5F1A)Q!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!/1$$`````"%2B&gt;'%!!$B!=!!?!!!@#5.533ZM&gt;GRJ9B.%:8:J9W6$&lt;WVN=SZM&gt;G.M98.T!!Z%:8:J9W6$&lt;WVN=S"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!'!!=!"!!)!!E#!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!%!!!!!A!!!!!!!!#%!!!!*!!!!!!!1!+!!!!!!</Property>
@@ -360,7 +360,7 @@ While the VIs defined in this interface can be used directly, the intended usage
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1117782528</Property>
 		</Item>
 	</Item>
 	<Item Name="Cleanup.vi" Type="VI" URL="../Cleanup.vi">

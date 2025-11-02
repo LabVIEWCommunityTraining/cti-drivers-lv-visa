@@ -14,4 +14,10 @@
 		<Item Name="PCF8574 I2C LCD.lvclass" Type="LVClass" URL="../PCF8574 I2C LCD/PCF8574 I2C LCD.lvclass"/>
 	</Item>
 	<Item Name="Low Level" Type="Folder"/>
+	<Item Name="OLED Display" Type="Folder">
+		<Item Name="Base" Type="Folder">
+			<Item Name="OLED.lvclass" Type="LVClass" URL="../OLED Display/OLED.lvclass"/>
+		</Item>
+		<Item Name="64x128 I2C OLED SSD1315.lvclass" Type="LVClass" URL="../I2C OLED/64x128 I2C OLED SSD1315/64x128 I2C OLED SSD1315.lvclass"/>
+	</Item>
 </Library>

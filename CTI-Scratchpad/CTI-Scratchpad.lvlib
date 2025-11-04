@@ -4,7 +4,10 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Grove" Type="Folder">
-		<Item Name="I2C Grove 64x128OLED_SSD1315_Graph.vi" Type="VI" URL="../Grove/I2C Grove 64x128OLED_SSD1315_Graph.vi"/>
+		<Item Name="Displays" Type="Folder">
+			<Item Name="I2C Grove 64x128OLED_SSD1315_Graph.vi" Type="VI" URL="../Grove/I2C Grove 64x128OLED_SSD1315_Graph.vi"/>
+		</Item>
+		<Item Name="Sensors" Type="Folder"/>
 	</Item>
 	<Item Name="Error - Resource Conflict.vi" Type="VI" URL="../Error - Resource Conflict.vi"/>
 	<Item Name="Error - Reversed I2C.vi" Type="VI" URL="../Error - Reversed I2C.vi"/>

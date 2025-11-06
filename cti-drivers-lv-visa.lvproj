@@ -105,6 +105,8 @@
 				<Item Name="Autoscale Multi-XY.vi" Type="VI" URL="/&lt;vilib&gt;/picture/cartesn.llb/Autoscale Multi-XY.vi"/>
 				<Item Name="Autoscale XY.vi" Type="VI" URL="/&lt;vilib&gt;/picture/cartesn.llb/Autoscale XY.vi"/>
 				<Item Name="Plot XY.vi" Type="VI" URL="/&lt;vilib&gt;/picture/cartesn.llb/Plot XY.vi"/>
+				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
+				<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Flattened Pixmap.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>

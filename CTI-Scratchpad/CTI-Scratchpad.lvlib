@@ -4,7 +4,9 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Grove" Type="Folder">
-		<Item Name="Demos" Type="Folder"/>
+		<Item Name="Demos" Type="Folder">
+			<Item Name="I2C OLEDGestureDemo.vi" Type="VI" URL="../Grove/I2C OLEDGestureDemo.vi"/>
+		</Item>
 		<Item Name="Displays" Type="Folder">
 			<Item Name="I2C Grove 64x128OLED_SSD1315_Graph.vi" Type="VI" URL="../Grove/I2C Grove 64x128OLED_SSD1315_Graph.vi"/>
 		</Item>
@@ -22,7 +24,6 @@
 	<Item Name="I2C LCD Full.vi" Type="VI" URL="../I2C LCD Full.vi"/>
 	<Item Name="I2C LCD Hello.vi" Type="VI" URL="../I2C LCD Hello.vi"/>
 	<Item Name="I2C LCD Raw ADC.vi" Type="VI" URL="../I2C LCD Raw ADC.vi"/>
-	<Item Name="I2C OLEDGestureDemo.vi" Type="VI" URL="../Grove/I2C OLEDGestureDemo.vi"/>
 	<Item Name="I2C Write.vi" Type="VI" URL="../I2C Write.vi"/>
 	<Item Name="LED Graph.vi" Type="VI" URL="../LED Graph.vi"/>
 	<Item Name="PWM Pulsate.vi" Type="VI" URL="../PWM Pulsate.vi"/>

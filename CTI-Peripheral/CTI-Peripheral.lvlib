@@ -26,4 +26,10 @@
 		</Item>
 		<Item Name="64x128 I2C OLED SSD1315.lvclass" Type="LVClass" URL="../I2C OLED/64x128 I2C OLED SSD1315/64x128 I2C OLED SSD1315.lvclass"/>
 	</Item>
+	<Item Name="RGB I2C Driver" Type="Folder">
+		<Item Name="Base" Type="Folder">
+			<Item Name="RGB I2C.lvclass" Type="LVClass" URL="../RGB I2C/RGB I2C.lvclass"/>
+		</Item>
+		<Item Name="Grove I2C RGB SGM31323.lvclass" Type="LVClass" URL="../RGB I2C/Grove I2C RGB SGM31323/Grove I2C RGB SGM31323.lvclass"/>
+	</Item>
 </Library>

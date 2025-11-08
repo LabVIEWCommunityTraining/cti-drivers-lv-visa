@@ -12,6 +12,7 @@
 			<Item Name="I2C Grove 64x128OLED_SSD1315_Graph.vi" Type="VI" URL="../Grove/I2C Grove 64x128OLED_SSD1315_Graph.vi"/>
 		</Item>
 		<Item Name="Sensors" Type="Folder">
+			<Item Name="I2C 4 Channel An In ADS1115.vi" Type="VI" URL="../Grove/I2C 4 Channel An In ADS1115.vi"/>
 			<Item Name="I2C GestureSensor PAJ7620U2.vi" Type="VI" URL="../Grove/I2C GestureSensor PAJ7620U2.vi"/>
 		</Item>
 	</Item>

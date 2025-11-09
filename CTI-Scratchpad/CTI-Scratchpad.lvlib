@@ -4,6 +4,9 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Grove" Type="Folder">
+		<Item Name="Analog Outputs" Type="Folder">
+			<Item Name="M5StackDAC2" Type="Folder"/>
+		</Item>
 		<Item Name="Demos" Type="Folder">
 			<Item Name="I2C OLEDGestureDemo.vi" Type="VI" URL="../Grove/I2C OLEDGestureDemo.vi"/>
 		</Item>
@@ -23,6 +26,7 @@
 	<Item Name="GDevCon Omnibus.vi" Type="VI" URL="../GDevCon Omnibus.vi"/>
 	<Item Name="GPIO In.vi" Type="VI" URL="../GPIO In.vi"/>
 	<Item Name="GPIO Out.vi" Type="VI" URL="../GPIO Out.vi"/>
+	<Item Name="I2C An Out M5StackDAC2.vi" Type="VI" URL="../Grove/I2C An Out M5StackDAC2.vi"/>
 	<Item Name="I2C LCD Full.vi" Type="VI" URL="../I2C LCD Full.vi"/>
 	<Item Name="I2C LCD Hello.vi" Type="VI" URL="../I2C LCD Hello.vi"/>
 	<Item Name="I2C LCD Raw ADC.vi" Type="VI" URL="../I2C LCD Raw ADC.vi"/>

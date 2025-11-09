@@ -17,6 +17,16 @@
 			</Item>
 		</Item>
 	</Item>
+	<Item Name="Analog Output" Type="Folder">
+		<Item Name="Grove An Out" Type="Folder">
+			<Item Name="Base" Type="Folder">
+				<Item Name="An Out I2C.lvclass" Type="LVClass" URL="../Analog Output/Grove An Out/Base/An Out I2C.lvclass"/>
+			</Item>
+			<Item Name="M5StackDAC2" Type="Folder">
+				<Item Name="M5StackDAC2.lvclass" Type="LVClass" URL="../Analog Output/Grove An Out/M5StackDAC2/M5StackDAC2.lvclass"/>
+			</Item>
+		</Item>
+	</Item>
 	<Item Name="Gesture Sensor" Type="Folder">
 		<Item Name="Base" Type="Folder">
 			<Item Name="Gesture Sensor.lvclass" Type="LVClass" URL="../Gesture Sensor/Base/Gesture Sensor.lvclass"/>

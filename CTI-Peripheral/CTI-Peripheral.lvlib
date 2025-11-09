@@ -56,4 +56,12 @@
 		</Item>
 		<Item Name="Grove I2C RGB SGM31323.lvclass" Type="LVClass" URL="../RGB I2C/Grove I2C RGB SGM31323/Grove I2C RGB SGM31323.lvclass"/>
 	</Item>
+	<Item Name="Switching" Type="Folder">
+		<Item Name="Grove I2C Switches" Type="Folder">
+			<Item Name="Base" Type="Folder">
+				<Item Name="I2C Switch.lvclass" Type="LVClass" URL="../Switching/Grove I2C Switches/Base/I2C Switch.lvclass"/>
+			</Item>
+			<Item Name="4ChannelSPDTRelay.lvclass" Type="LVClass" URL="../Switching/Grove I2C Switches/4ChannelSPDTRelay.lvclass"/>
+		</Item>
+	</Item>
 </Library>

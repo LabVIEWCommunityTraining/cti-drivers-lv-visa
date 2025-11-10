@@ -7,8 +7,6 @@
 		<Item Name="Grove An In" Type="Folder">
 			<Item Name="I2C" Type="Folder">
 				<Item Name="ADC-ADS1115" Type="Folder">
-					<Item Name="Private" Type="Folder"/>
-					<Item Name="Public" Type="Folder"/>
 					<Item Name="Grove An In ADS1115.lvclass" Type="LVClass" URL="../Analog Input/Grove An In/I2C/ADC-ADS1115/Grove An In ADS1115.lvclass"/>
 				</Item>
 				<Item Name="Base" Type="Folder">
@@ -27,11 +25,19 @@
 			</Item>
 		</Item>
 	</Item>
-	<Item Name="Gesture Sensor" Type="Folder">
-		<Item Name="Base" Type="Folder">
-			<Item Name="Gesture Sensor.lvclass" Type="LVClass" URL="../Gesture Sensor/Base/Gesture Sensor.lvclass"/>
+	<Item Name="I2C Sensors" Type="Folder">
+		<Item Name="Gesture Sensor" Type="Folder">
+			<Item Name="Base" Type="Folder">
+				<Item Name="Gesture Sensor.lvclass" Type="LVClass" URL="../Gesture Sensor/Base/Gesture Sensor.lvclass"/>
+			</Item>
+			<Item Name="Grove Gesture Sensor PAJ7620U2.lvclass" Type="LVClass" URL="../Gesture Sensor/Grove Gesture Sensor PAJ7620U2/Grove Gesture Sensor PAJ7620U2.lvclass"/>
 		</Item>
-		<Item Name="Grove Gesture Sensor PAJ7620U2.lvclass" Type="LVClass" URL="../Gesture Sensor/Grove Gesture Sensor PAJ7620U2/Grove Gesture Sensor PAJ7620U2.lvclass"/>
+		<Item Name="Temp Humidity Sensor" Type="Folder">
+			<Item Name="Base" Type="Folder">
+				<Item Name="I2C Temp Humidity Sensor.lvclass" Type="LVClass" URL="../Analog Input/Grove I2C Sensors/Temperature and Humidity/Base/I2C Temp Humidity Sensor.lvclass"/>
+			</Item>
+			<Item Name="Grove Temperature Humidity Sensor DH20.lvclass" Type="LVClass" URL="../Analog Input/Grove I2C Sensors/Temperature and Humidity/Grove Temperature Humidity Sensor DH20.lvclass"/>
+		</Item>
 	</Item>
 	<Item Name="LCD" Type="Folder">
 		<Item Name="Base" Type="Folder">

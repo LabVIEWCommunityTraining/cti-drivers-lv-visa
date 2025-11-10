@@ -108,6 +108,7 @@
 				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
 				<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Flattened Pixmap.vi"/>
 			</Item>
+			<Item Name="CalcTempHumidity.vi" Type="VI" URL="../CTI-Peripheral/Analog Input/Grove I2C Sensors/Temperature and Humidity/Private/CalcTempHumidity.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

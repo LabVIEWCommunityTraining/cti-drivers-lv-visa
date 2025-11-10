@@ -21,7 +21,9 @@
 			<Item Name="I2C GestureSensor PAJ7620U2.vi" Type="VI" URL="../Grove/I2C GestureSensor PAJ7620U2.vi"/>
 		</Item>
 		<Item Name="Switches" Type="Folder">
-			<Item Name="4ChannelSPDT I2C" Type="Folder"/>
+			<Item Name="4ChannelSPDT I2C" Type="Folder">
+				<Item Name="I2C 4 Channel SPDT Relay Board.vi" Type="VI" URL="../Grove/I2C 4 Channel SPDT Relay Board.vi"/>
+			</Item>
 		</Item>
 	</Item>
 	<Item Name="Error - Resource Conflict.vi" Type="VI" URL="../Error - Resource Conflict.vi"/>
@@ -31,10 +33,10 @@
 	<Item Name="GDevCon Omnibus.vi" Type="VI" URL="../GDevCon Omnibus.vi"/>
 	<Item Name="GPIO In.vi" Type="VI" URL="../GPIO In.vi"/>
 	<Item Name="GPIO Out.vi" Type="VI" URL="../GPIO Out.vi"/>
-	<Item Name="I2C 4 Channel SPDT Relay Board.vi" Type="VI" URL="../Grove/I2C 4 Channel SPDT Relay Board.vi"/>
 	<Item Name="I2C LCD Full.vi" Type="VI" URL="../I2C LCD Full.vi"/>
 	<Item Name="I2C LCD Hello.vi" Type="VI" URL="../I2C LCD Hello.vi"/>
 	<Item Name="I2C LCD Raw ADC.vi" Type="VI" URL="../I2C LCD Raw ADC.vi"/>
+	<Item Name="I2C Temperature Humidity Sensor DH20.vi" Type="VI" URL="../Grove/I2C Temperature Humidity Sensor DH20.vi"/>
 	<Item Name="I2C Write.vi" Type="VI" URL="../I2C Write.vi"/>
 	<Item Name="LED Graph.vi" Type="VI" URL="../LED Graph.vi"/>
 	<Item Name="PWM Pulsate.vi" Type="VI" URL="../PWM Pulsate.vi"/>

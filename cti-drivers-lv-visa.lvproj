@@ -109,6 +109,8 @@
 				<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Flattened Pixmap.vi"/>
 			</Item>
 			<Item Name="CalcTempHumidity.vi" Type="VI" URL="../CTI-Peripheral/Analog Input/Grove I2C Sensors/Temperature and Humidity/Private/CalcTempHumidity.vi"/>
+			<Item Name="ConfigData.ctl" Type="VI" URL="../CTI-Peripheral/Analog Input/Grove An In/I2C/ADC-ADS1115/Private/ConfigData.ctl"/>
+			<Item Name="ThermocoupleType.ctl" Type="VI" URL="../../../CTI/CTI-Grove/Examples/Sourcecode/cti-drivers-lv-visa-simple/Examples/I2C/Thermocouple(MCP9600)/ThermocoupleType.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

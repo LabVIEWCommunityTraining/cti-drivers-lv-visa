@@ -20,6 +20,7 @@
 			<Item Name="I2C 4 Channel An In ADS1115.vi" Type="VI" URL="../Grove/I2C 4 Channel An In ADS1115.vi"/>
 			<Item Name="I2C GestureSensor PAJ7620U2.vi" Type="VI" URL="../Grove/I2C GestureSensor PAJ7620U2.vi"/>
 			<Item Name="I2C Temperature Humidity Sensor DH20.vi" Type="VI" URL="../Grove/I2C Temperature Humidity Sensor DH20.vi"/>
+			<Item Name="I2C Thermal Camera AMG8833 8x8.vi" Type="VI" URL="../Grove/I2C Thermal Camera AMG8833 8x8.vi"/>
 			<Item Name="I2C Thermocouple MCP9600.vi" Type="VI" URL="../Grove/I2C Thermocouple MCP9600.vi"/>
 		</Item>
 		<Item Name="Switches" Type="Folder">

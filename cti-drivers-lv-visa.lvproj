@@ -107,10 +107,16 @@
 				<Item Name="Plot XY.vi" Type="VI" URL="/&lt;vilib&gt;/picture/cartesn.llb/Plot XY.vi"/>
 				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
 				<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Flattened Pixmap.vi"/>
+				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
+				<Item Name="NI_Gmath.lvlib" Type="Library" URL="/&lt;vilib&gt;/gmath/NI_Gmath.lvlib"/>
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
+				<Item Name="NI_Matrix.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/Matrix/NI_Matrix.lvlib"/>
 			</Item>
 			<Item Name="CalcTempHumidity.vi" Type="VI" URL="../CTI-Peripheral/Analog Input/Grove I2C Sensors/Temperature and Humidity/Private/CalcTempHumidity.vi"/>
 			<Item Name="ConfigData.ctl" Type="VI" URL="../CTI-Peripheral/Analog Input/Grove An In/I2C/ADC-ADS1115/Private/ConfigData.ctl"/>
 			<Item Name="ThermocoupleType.ctl" Type="VI" URL="../../../CTI/CTI-Grove/Examples/Sourcecode/cti-drivers-lv-visa-simple/Examples/I2C/Thermocouple(MCP9600)/ThermocoupleType.ctl"/>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
+			<Item Name="LV Colormap Fresh.vi" Type="VI" URL="../CTI-Peripheral/Thermal Camera/I2C Thermal Camera/LV Colormap Fresh.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

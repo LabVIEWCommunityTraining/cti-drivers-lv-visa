@@ -38,6 +38,12 @@
 			</Item>
 			<Item Name="Grove Temperature Humidity Sensor DH20.lvclass" Type="LVClass" URL="../Analog Input/Grove I2C Sensors/Temperature and Humidity/Grove Temperature Humidity Sensor DH20.lvclass"/>
 		</Item>
+		<Item Name="Thermal Camera" Type="Folder">
+			<Item Name="Base" Type="Folder">
+				<Item Name="Thermal Camera.lvclass" Type="LVClass" URL="../Thermal Camera/Base/Thermal Camera.lvclass"/>
+			</Item>
+			<Item Name="AMG8833 8x8 Camera.lvclass" Type="LVClass" URL="../Thermal Camera/I2C Thermal Camera/AMG8833 8x8/AMG8833 8x8 Camera.lvclass"/>
+		</Item>
 		<Item Name="Thermocouple Sensor" Type="Folder">
 			<Item Name="Base" Type="Folder">
 				<Item Name="I2C Thermocouple.lvclass" Type="LVClass" URL="../Analog Input/Grove I2C Sensors/Thermocouple/Base/I2C Thermocouple.lvclass"/>

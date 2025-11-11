@@ -26,6 +26,12 @@
 		</Item>
 	</Item>
 	<Item Name="I2C Sensors" Type="Folder">
+		<Item Name="Accel Gyro Sensor" Type="Folder">
+			<Item Name="Base" Type="Folder">
+				<Item Name="I2C Accelerometer Gyro.lvclass" Type="LVClass" URL="../I2C Accel Gyro/Base/I2C Accelerometer Gyro.lvclass"/>
+			</Item>
+			<Item Name="Grove 6 Axis Gyro Accel LSM6DS3.lvclass" Type="LVClass" URL="../I2C Accel Gyro/Grove 6 Axis Gyro Accel LSM6DS3.lvclass"/>
+		</Item>
 		<Item Name="Gesture Sensor" Type="Folder">
 			<Item Name="Base" Type="Folder">
 				<Item Name="Gesture Sensor.lvclass" Type="LVClass" URL="../Gesture Sensor/Base/Gesture Sensor.lvclass"/>

@@ -117,6 +117,8 @@
 			<Item Name="ThermocoupleType.ctl" Type="VI" URL="../../../CTI/CTI-Grove/Examples/Sourcecode/cti-drivers-lv-visa-simple/Examples/I2C/Thermocouple(MCP9600)/ThermocoupleType.ctl"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="LV Colormap Fresh.vi" Type="VI" URL="../CTI-Peripheral/Thermal Camera/I2C Thermal Camera/LV Colormap Fresh.vi"/>
+			<Item Name="Register.ctl" Type="VI" URL="../CTI-Peripheral/I2C Accel Gyro/Private/Register.ctl"/>
+			<Item Name="ReadRegister.vi" Type="VI" URL="../CTI-Peripheral/I2C Accel Gyro/Private/ReadRegister.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

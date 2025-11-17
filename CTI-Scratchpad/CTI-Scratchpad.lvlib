@@ -4,6 +4,9 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Grove" Type="Folder">
+		<Item Name="Analog Inputs" Type="Folder">
+			<Item Name="Grove Read ADC.vi" Type="VI" URL="../Grove/Grove Read ADC.vi"/>
+		</Item>
 		<Item Name="Analog Outputs" Type="Folder">
 			<Item Name="M5StackDAC2" Type="Folder">
 				<Item Name="I2C An Out M5StackDAC2.vi" Type="VI" URL="../Grove/I2C An Out M5StackDAC2.vi"/>
@@ -11,6 +14,9 @@
 		</Item>
 		<Item Name="Demos" Type="Folder">
 			<Item Name="I2C OLEDGestureDemo.vi" Type="VI" URL="../Grove/I2C OLEDGestureDemo.vi"/>
+		</Item>
+		<Item Name="Digital Outputs" Type="Folder">
+			<Item Name="Grove Digital Out.vi" Type="VI" URL="../Grove Digital Out.vi"/>
 		</Item>
 		<Item Name="Displays" Type="Folder">
 			<Item Name="Grove RGB I2C LCD Full.vi" Type="VI" URL="../Grove/Grove RGB I2C LCD Full.vi"/>

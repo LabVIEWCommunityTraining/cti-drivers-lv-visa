@@ -22,6 +22,9 @@
 			<Item Name="Grove RGB I2C LCD Full.vi" Type="VI" URL="../Grove/Grove RGB I2C LCD Full.vi"/>
 			<Item Name="I2C Grove 64x128OLED_SSD1315_Graph.vi" Type="VI" URL="../Grove/I2C Grove 64x128OLED_SSD1315_Graph.vi"/>
 		</Item>
+		<Item Name="Motor Drive" Type="Folder">
+			<Item Name="I2C L298P Motor Drive.vi" Type="VI" URL="../Grove/I2C L298P Motor Drive.vi"/>
+		</Item>
 		<Item Name="Sensors" Type="Folder">
 			<Item Name="I2C 4 Channel An In ADS1115.vi" Type="VI" URL="../Grove/I2C 4 Channel An In ADS1115.vi"/>
 			<Item Name="I2C 6 Axis Gyro Accel LSM6D3.vi" Type="VI" URL="../Grove/I2C 6 Axis Gyro Accel LSM6D3.vi"/>

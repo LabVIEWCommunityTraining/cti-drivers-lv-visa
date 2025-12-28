@@ -68,6 +68,12 @@
 		<Item Name="PCF8574 I2C LCD.lvclass" Type="LVClass" URL="../PCF8574 I2C LCD/PCF8574 I2C LCD.lvclass"/>
 	</Item>
 	<Item Name="Low Level" Type="Folder"/>
+	<Item Name="Motor Drivers" Type="Folder">
+		<Item Name="Base" Type="Folder">
+			<Item Name="Motor Controller.lvclass" Type="LVClass" URL="../Motor Controller/Base/Motor Controller.lvclass"/>
+		</Item>
+		<Item Name="Grove I2C L298P Motor Drive.lvclass" Type="LVClass" URL="../Motor Controller/Grove I2C L298P Motor Drive.lvclass"/>
+	</Item>
 	<Item Name="OLED Display" Type="Folder">
 		<Item Name="Base" Type="Folder">
 			<Item Name="OLED.lvclass" Type="LVClass" URL="../OLED Display/OLED.lvclass"/>

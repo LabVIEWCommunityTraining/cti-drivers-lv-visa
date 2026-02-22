@@ -7,13 +7,18 @@
 		<Item Name="Analog Inputs" Type="Folder">
 			<Item Name="Grove Read ADC.vi" Type="VI" URL="../Grove/Grove Read ADC.vi"/>
 		</Item>
+		<Item Name="Analog Output PWM" Type="Folder"/>
 		<Item Name="Analog Outputs" Type="Folder">
 			<Item Name="M5StackDAC2" Type="Folder">
 				<Item Name="I2C An Out M5StackDAC2.vi" Type="VI" URL="../Grove/I2C An Out M5StackDAC2.vi"/>
 			</Item>
+			<Item Name="I2C An Out 0-20mA(GP8313).vi" Type="VI" URL="../Grove/I2C An Out 0-20mA(GP8313).vi"/>
 		</Item>
 		<Item Name="Demos" Type="Folder">
 			<Item Name="I2C OLEDGestureDemo.vi" Type="VI" URL="../Grove/I2C OLEDGestureDemo.vi"/>
+		</Item>
+		<Item Name="Digital Inputs" Type="Folder">
+			<Item Name="Grove Digital In.vi" Type="VI" URL="../Grove Digital In.vi"/>
 		</Item>
 		<Item Name="Digital Outputs" Type="Folder">
 			<Item Name="Grove Digital Out.vi" Type="VI" URL="../Grove Digital Out.vi"/>
@@ -21,6 +26,10 @@
 		<Item Name="Displays" Type="Folder">
 			<Item Name="Grove RGB I2C LCD Full.vi" Type="VI" URL="../Grove/Grove RGB I2C LCD Full.vi"/>
 			<Item Name="I2C Grove 64x128OLED_SSD1315_Graph.vi" Type="VI" URL="../Grove/I2C Grove 64x128OLED_SSD1315_Graph.vi"/>
+		</Item>
+		<Item Name="I2C Thermal Camera" Type="Folder">
+			<Item Name="I2C Thermal Camera AMG8833 8x8.vi" Type="VI" URL="../Grove/I2C Thermal Camera AMG8833 8x8.vi"/>
+			<Item Name="LV Colormap Fresh.vi" Type="VI" URL="../../CTI-Peripheral/Thermal Camera/I2C Thermal Camera/LV Colormap Fresh.vi"/>
 		</Item>
 		<Item Name="Motor Drive" Type="Folder">
 			<Item Name="I2C L298P Motor Drive.vi" Type="VI" URL="../Grove/I2C L298P Motor Drive.vi"/>
@@ -30,7 +39,6 @@
 			<Item Name="I2C 6 Axis Gyro Accel LSM6D3.vi" Type="VI" URL="../Grove/I2C 6 Axis Gyro Accel LSM6D3.vi"/>
 			<Item Name="I2C GestureSensor PAJ7620U2.vi" Type="VI" URL="../Grove/I2C GestureSensor PAJ7620U2.vi"/>
 			<Item Name="I2C Temperature Humidity Sensor DH20.vi" Type="VI" URL="../Grove/I2C Temperature Humidity Sensor DH20.vi"/>
-			<Item Name="I2C Thermal Camera AMG8833 8x8.vi" Type="VI" URL="../Grove/I2C Thermal Camera AMG8833 8x8.vi"/>
 			<Item Name="I2C Thermocouple MCP9600.vi" Type="VI" URL="../Grove/I2C Thermocouple MCP9600.vi"/>
 		</Item>
 		<Item Name="Switches" Type="Folder">

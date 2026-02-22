@@ -16,6 +16,14 @@
 		</Item>
 	</Item>
 	<Item Name="Analog Output" Type="Folder">
+		<Item Name="1 Channel I2C An Out" Type="Folder">
+			<Item Name="Base" Type="Folder">
+				<Item Name="An Out I2C 1 Chan.lvclass" Type="LVClass" URL="../Analog Output/1 Chan I2C An Out/Base/An Out I2C 1 Chan.lvclass"/>
+			</Item>
+			<Item Name="I2C_0-20mA(GP8313)" Type="Folder">
+				<Item Name="I2C_0-20mA(GP8313).lvclass" Type="LVClass" URL="../Analog Output/1 Chan I2C An Out/I2C_0-20mA(GP8313)/I2C_0-20mA(GP8313).lvclass"/>
+			</Item>
+		</Item>
 		<Item Name="Grove An Out" Type="Folder">
 			<Item Name="Base" Type="Folder">
 				<Item Name="An Out I2C.lvclass" Type="LVClass" URL="../Analog Output/Grove An Out/Base/An Out I2C.lvclass"/>

@@ -21,6 +21,7 @@
 		<Item Name="CTI-Scratchpad.lvlib" Type="Library" URL="../CTI-Scratchpad/CTI-Scratchpad.lvlib"/>
 		<Item Name="CTI-Tools.lvlib" Type="Library" URL="../CTI-Tools/CTI-Tools.lvlib"/>
 		<Item Name="CTI-Peripheral.lvlib" Type="Library" URL="../CTI-Peripheral/CTI-Peripheral.lvlib"/>
+		<Item Name="Emojis.ctl" Type="VI" URL="../CTI-Peripheral/RGB LED Matrix/Grove 2 RGB LED Matrix/Data Types/Emojis.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>

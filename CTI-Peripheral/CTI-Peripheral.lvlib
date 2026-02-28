@@ -33,6 +33,12 @@
 			</Item>
 		</Item>
 	</Item>
+	<Item Name="Grove RGB Matrix" Type="Folder">
+		<Item Name="Base" Type="Folder">
+			<Item Name="RGB LED Matrix.lvclass" Type="LVClass" URL="../RGB LED Matrix/RGB LED Matrix.lvclass"/>
+		</Item>
+		<Item Name="Grove 2 RGB LED Matrix.lvclass" Type="LVClass" URL="../RGB LED Matrix/Grove 2 RGB LED Matrix/Grove 2 RGB LED Matrix.lvclass"/>
+	</Item>
 	<Item Name="I2C Sensors" Type="Folder">
 		<Item Name="Accel Gyro Sensor" Type="Folder">
 			<Item Name="Base" Type="Folder">

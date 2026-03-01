@@ -21,6 +21,7 @@
 		<Item Name="CTI-Scratchpad.lvlib" Type="Library" URL="../CTI-Scratchpad/CTI-Scratchpad.lvlib"/>
 		<Item Name="CTI-Tools.lvlib" Type="Library" URL="../CTI-Tools/CTI-Tools.lvlib"/>
 		<Item Name="CTI-Peripheral.lvlib" Type="Library" URL="../CTI-Peripheral/CTI-Peripheral.lvlib"/>
+		<Item Name="Emojis.ctl" Type="VI" URL="../CTI-Peripheral/RGB LED Matrix/Grove 2 RGB LED Matrix/Data Types/Emojis.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
@@ -112,12 +113,7 @@
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="NI_Matrix.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/Matrix/NI_Matrix.lvlib"/>
 			</Item>
-			<Item Name="CalcTempHumidity.vi" Type="VI" URL="../CTI-Peripheral/Analog Input/Grove I2C Sensors/Temperature and Humidity/Private/CalcTempHumidity.vi"/>
-			<Item Name="ConfigData.ctl" Type="VI" URL="../CTI-Peripheral/Analog Input/Grove An In/I2C/ADC-ADS1115/Private/ConfigData.ctl"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="LV Colormap Fresh.vi" Type="VI" URL="../CTI-Peripheral/Thermal Camera/I2C Thermal Camera/LV Colormap Fresh.vi"/>
-			<Item Name="Register.ctl" Type="VI" URL="../CTI-Peripheral/I2C Accel Gyro/Private/Register.ctl"/>
-			<Item Name="ReadRegister.vi" Type="VI" URL="../CTI-Peripheral/I2C Accel Gyro/Private/ReadRegister.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

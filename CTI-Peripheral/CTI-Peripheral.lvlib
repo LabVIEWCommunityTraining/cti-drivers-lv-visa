@@ -16,6 +16,14 @@
 		</Item>
 	</Item>
 	<Item Name="Analog Output" Type="Folder">
+		<Item Name="1 Channel I2C An Out" Type="Folder">
+			<Item Name="Base" Type="Folder">
+				<Item Name="An Out I2C 1 Chan.lvclass" Type="LVClass" URL="../Analog Output/1 Chan I2C An Out/Base/An Out I2C 1 Chan.lvclass"/>
+			</Item>
+			<Item Name="I2C_0-20mA(GP8313)" Type="Folder">
+				<Item Name="I2C_0-20mA(GP8313).lvclass" Type="LVClass" URL="../Analog Output/1 Chan I2C An Out/I2C_0-20mA(GP8313)/I2C_0-20mA(GP8313).lvclass"/>
+			</Item>
+		</Item>
 		<Item Name="Grove An Out" Type="Folder">
 			<Item Name="Base" Type="Folder">
 				<Item Name="An Out I2C.lvclass" Type="LVClass" URL="../Analog Output/Grove An Out/Base/An Out I2C.lvclass"/>
@@ -24,6 +32,12 @@
 				<Item Name="M5StackDAC2.lvclass" Type="LVClass" URL="../Analog Output/Grove An Out/M5StackDAC2/M5StackDAC2.lvclass"/>
 			</Item>
 		</Item>
+	</Item>
+	<Item Name="Grove RGB Matrix" Type="Folder">
+		<Item Name="Base" Type="Folder">
+			<Item Name="RGB LED Matrix.lvclass" Type="LVClass" URL="../RGB LED Matrix/RGB LED Matrix.lvclass"/>
+		</Item>
+		<Item Name="Grove 2 RGB LED Matrix.lvclass" Type="LVClass" URL="../RGB LED Matrix/Grove 2 RGB LED Matrix/Grove 2 RGB LED Matrix.lvclass"/>
 	</Item>
 	<Item Name="I2C Sensors" Type="Folder">
 		<Item Name="Accel Gyro Sensor" Type="Folder">
@@ -78,6 +92,7 @@
 		<Item Name="Base" Type="Folder">
 			<Item Name="OLED.lvclass" Type="LVClass" URL="../OLED Display/OLED.lvclass"/>
 		</Item>
+		<Item Name="48x64 I2C OLED SSD1306.lvclass" Type="LVClass" URL="../I2C OLED/48x64 I2C OLED SSD1306/48x64 I2C OLED SSD1306.lvclass"/>
 		<Item Name="64x128 I2C OLED SSD1315.lvclass" Type="LVClass" URL="../I2C OLED/64x128 I2C OLED SSD1315/64x128 I2C OLED SSD1315.lvclass"/>
 	</Item>
 	<Item Name="RGB I2C Driver" Type="Folder">

@@ -4,10 +4,13 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Grove" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Analog Inputs" Type="Folder">
 			<Item Name="Grove Read ADC.vi" Type="VI" URL="../Grove/Grove Read ADC.vi"/>
 		</Item>
-		<Item Name="Analog Output PWM" Type="Folder"/>
+		<Item Name="Analog Output PWM" Type="Folder">
+			<Item Name="Piano PWM AO.vi" Type="VI" URL="../Grove/Piano PWM AO.vi"/>
+		</Item>
 		<Item Name="Analog Outputs" Type="Folder">
 			<Item Name="M5StackDAC2" Type="Folder">
 				<Item Name="I2C An Out M5StackDAC2.vi" Type="VI" URL="../Grove/I2C An Out M5StackDAC2.vi"/>
@@ -30,17 +33,19 @@
 			<Item Name="I2C Grove 64x48OLED_SSD1306_Examples.vi" Type="VI" URL="../Grove/I2C Grove 64x48OLED_SSD1306_Examples.vi"/>
 			<Item Name="I2C Grove 64x128OLED_SSD1315_Graph.vi" Type="VI" URL="../Grove/I2C Grove 64x128OLED_SSD1315_Graph.vi"/>
 		</Item>
-		<Item Name="I2C Thermal Camera" Type="Folder">
-			<Item Name="I2C Thermal Camera AMG8833 8x8.vi" Type="VI" URL="../Grove/I2C Thermal Camera AMG8833 8x8.vi"/>
-			<Item Name="LV Colormap Fresh.vi" Type="VI" URL="../../CTI-Peripheral/Thermal Camera/I2C Thermal Camera/LV Colormap Fresh.vi"/>
-		</Item>
-		<Item Name="Motor Drive" Type="Folder">
-			<Item Name="I2C L298P Motor Drive.vi" Type="VI" URL="../Grove/I2C L298P Motor Drive.vi"/>
+		<Item Name="Gadgets" Type="Folder">
+			<Item Name="Motor Drive" Type="Folder">
+				<Item Name="I2C L298P Motor Drive.vi" Type="VI" URL="../Grove/I2C L298P Motor Drive.vi"/>
+			</Item>
+			<Item Name="I2C Thermal Camera" Type="Folder">
+				<Item Name="I2C Thermal Camera AMG8833 8x8.vi" Type="VI" URL="../Grove/I2C Thermal Camera AMG8833 8x8.vi"/>
+				<Item Name="LV Colormap Fresh.vi" Type="VI" URL="../../CTI-Peripheral/Thermal Camera/I2C Thermal Camera/LV Colormap Fresh.vi"/>
+			</Item>
+			<Item Name="I2C 6 Axis Gyro Accel LSM6D3.vi" Type="VI" URL="../Grove/I2C 6 Axis Gyro Accel LSM6D3.vi"/>
+			<Item Name="I2C GestureSensor PAJ7620U2.vi" Type="VI" URL="../Grove/I2C GestureSensor PAJ7620U2.vi"/>
 		</Item>
 		<Item Name="Sensors" Type="Folder">
 			<Item Name="I2C 4 Channel An In ADS1115.vi" Type="VI" URL="../Grove/I2C 4 Channel An In ADS1115.vi"/>
-			<Item Name="I2C 6 Axis Gyro Accel LSM6D3.vi" Type="VI" URL="../Grove/I2C 6 Axis Gyro Accel LSM6D3.vi"/>
-			<Item Name="I2C GestureSensor PAJ7620U2.vi" Type="VI" URL="../Grove/I2C GestureSensor PAJ7620U2.vi"/>
 			<Item Name="I2C Temperature Humidity Sensor DH20.vi" Type="VI" URL="../Grove/I2C Temperature Humidity Sensor DH20.vi"/>
 			<Item Name="I2C Thermocouple MCP9600.vi" Type="VI" URL="../Grove/I2C Thermocouple MCP9600.vi"/>
 		</Item>

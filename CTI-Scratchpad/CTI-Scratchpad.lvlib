@@ -46,6 +46,7 @@
 		</Item>
 		<Item Name="Sensors" Type="Folder">
 			<Item Name="I2C 4 Channel An In ADS1115.vi" Type="VI" URL="../Grove/I2C 4 Channel An In ADS1115.vi"/>
+			<Item Name="I2C NAU7802 Strain 24 Bit Gauge.vi" Type="VI" URL="../Grove/I2C NAU7802 Strain 24 Bit Gauge.vi"/>
 			<Item Name="I2C Temperature Humidity Sensor DH20.vi" Type="VI" URL="../Grove/I2C Temperature Humidity Sensor DH20.vi"/>
 			<Item Name="I2C Thermocouple MCP9600.vi" Type="VI" URL="../Grove/I2C Thermocouple MCP9600.vi"/>
 		</Item>

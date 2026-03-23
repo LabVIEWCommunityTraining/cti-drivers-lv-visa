@@ -12,6 +12,9 @@
 				<Item Name="Base" Type="Folder">
 					<Item Name="I2C ADC.lvclass" Type="LVClass" URL="../Analog Input/Grove An In/I2C/Base/I2C ADC.lvclass"/>
 				</Item>
+				<Item Name="NAU7802" Type="Folder">
+					<Item Name="Adafruit NAU7802 24bit Strain Gauge.lvclass" Type="LVClass" URL="../Analog Input/Adafruit I2C Strain Gauge/Adafruit NAU7802 24bit Strain Gauge.lvclass"/>
+				</Item>
 			</Item>
 		</Item>
 	</Item>

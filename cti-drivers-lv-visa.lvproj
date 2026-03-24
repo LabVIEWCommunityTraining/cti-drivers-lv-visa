@@ -113,7 +113,6 @@
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="ConfigData.ctl" Type="VI" URL="../CTI-Peripheral/Analog Input/Adafruit I2C Strain Gauge/Private/ConfigData.ctl"/>
-			<Item Name="Grove I2C RGB SGM31323.lvclass" Type="LVClass" URL="../CTI-Peripheral/RGB I2C/Grove I2C RGB SGM31323/Grove I2C RGB SGM31323.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

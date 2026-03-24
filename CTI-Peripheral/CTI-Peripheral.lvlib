@@ -103,6 +103,7 @@
 		<Item Name="Base" Type="Folder">
 			<Item Name="RGB I2C.lvclass" Type="LVClass" URL="../RGB I2C/RGB I2C.lvclass"/>
 		</Item>
+		<Item Name="Grove I2C RGB SGM31323.lvclass" Type="LVClass" URL="../RGB I2C/Grove I2C RGB SGM31323/Grove I2C RGB SGM31323.lvclass"/>
 	</Item>
 	<Item Name="Switching" Type="Folder">
 		<Item Name="Grove I2C Switches" Type="Folder">

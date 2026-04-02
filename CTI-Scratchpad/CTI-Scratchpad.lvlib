@@ -25,6 +25,7 @@
 			<Item Name="Grove Digital In.vi" Type="VI" URL="../Grove Digital In.vi"/>
 		</Item>
 		<Item Name="Digital Outputs" Type="Folder">
+			<Item Name="Grove Digital Out Switch.vi" Type="VI" URL="../Grove/Grove Digital Out Switch.vi"/>
 			<Item Name="Grove Digital Out.vi" Type="VI" URL="../Grove Digital Out.vi"/>
 		</Item>
 		<Item Name="Displays" Type="Folder">
@@ -36,7 +37,7 @@
 		</Item>
 		<Item Name="Gadgets" Type="Folder">
 			<Item Name="Motor Drive" Type="Folder">
-				<Item Name="I2C L298P Motor Drive.vi" Type="VI" URL="../Grove/I2C L298P Motor Drive.vi"/>
+				<Item Name="I2C L298P DC Motor Drive.vi" Type="VI" URL="../Grove/I2C L298P DC Motor Drive.vi"/>
 			</Item>
 			<Item Name="I2C Thermal Camera" Type="Folder">
 				<Item Name="I2C Thermal Camera AMG8833 8x8.vi" Type="VI" URL="../Grove/I2C Thermal Camera AMG8833 8x8.vi"/>

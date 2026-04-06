@@ -37,6 +37,11 @@
 			</Item>
 		</Item>
 	</Item>
+	<Item Name="Gadgets" Type="Folder">
+		<Item Name="AdaFruit Seesaw" Type="Folder">
+			<Item Name="AdaFruit-Seesaw.lvclass" Type="LVClass" URL="../AdaFruit-Seesaw/AdaFruit-Seesaw.lvclass"/>
+		</Item>
+	</Item>
 	<Item Name="Grove RGB Matrix" Type="Folder">
 		<Item Name="Base" Type="Folder">
 			<Item Name="RGB LED Matrix.lvclass" Type="LVClass" URL="../RGB LED Matrix/Base/RGB LED Matrix.lvclass"/>

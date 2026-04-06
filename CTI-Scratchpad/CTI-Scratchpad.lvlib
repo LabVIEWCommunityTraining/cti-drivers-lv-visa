@@ -43,6 +43,11 @@
 				<Item Name="I2C Thermal Camera AMG8833 8x8.vi" Type="VI" URL="../Grove/I2C Thermal Camera AMG8833 8x8.vi"/>
 				<Item Name="LV Colormap Fresh.vi" Type="VI" URL="../../CTI-Peripheral/Thermal Camera/I2C Thermal Camera/LV Colormap Fresh.vi"/>
 			</Item>
+			<Item Name="AdaFruit Seesaw" Type="Folder">
+				<Item Name="Encoder" Type="Folder">
+					<Item Name="AdafruitSeesawEncoder.vi" Type="VI" URL="../Grove/AdafruitSeesawEncoder.vi"/>
+				</Item>
+			</Item>
 			<Item Name="I2C 6 Axis Gyro Accel LSM6D3.vi" Type="VI" URL="../Grove/I2C 6 Axis Gyro Accel LSM6D3.vi"/>
 			<Item Name="I2C GestureSensor PAJ7620U2.vi" Type="VI" URL="../Grove/I2C GestureSensor PAJ7620U2.vi"/>
 		</Item>

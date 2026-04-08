@@ -20,6 +20,7 @@
 		</Item>
 		<Item Name="Demos" Type="Folder">
 			<Item Name="I2C OLEDGestureDemo.vi" Type="VI" URL="../Grove/I2C OLEDGestureDemo.vi"/>
+			<Item Name="I2C Grove TrackerEyeballs.vi" Type="VI" URL="../Grove/I2C Grove TrackerEyeballs.vi"/>
 		</Item>
 		<Item Name="Digital Inputs" Type="Folder">
 			<Item Name="Grove Digital In.vi" Type="VI" URL="../Grove Digital In.vi"/>

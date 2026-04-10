@@ -7,6 +7,7 @@
 	<Item Name="Grove" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Analog Inputs" Type="Folder">
+			<Item Name="Grove Thumb Joystick.vi" Type="VI" URL="../Grove/Grove Thumb Joystick.vi"/>
 			<Item Name="Grove Read ADC.vi" Type="VI" URL="../Grove/Grove Read ADC.vi"/>
 		</Item>
 		<Item Name="Analog Output PWM" Type="Folder">

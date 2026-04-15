@@ -33,8 +33,9 @@
 		<Item Name="Displays" Type="Folder">
 			<Item Name="Grove RGB I2C LCD Full.vi" Type="VI" URL="../Grove/Grove RGB I2C LCD Full.vi"/>
 			<Item Name="I2C Grove 8x8 Matrix LED Custom.vi" Type="VI" URL="../Grove/I2C Grove 8x8 Matrix LED Custom.vi"/>
-			<Item Name="I2C Grove 8x8 Matrix LED Examples.vi" Type="VI" URL="../Grove/I2C Grove 8x8 Matrix LED Examples.vi"/>
+			<Item Name="I2C Grove 8x8 RGB Matrix LED Examples.vi" Type="VI" URL="../Grove/I2C Grove 8x8 RGB Matrix LED Examples.vi"/>
 			<Item Name="I2C Grove 64x48OLED_SSD1306_Graph.vi" Type="VI" URL="../Grove/I2C Grove 64x48OLED_SSD1306_Graph.vi"/>
+			<Item Name="I2C Grove 8x8Matrix LED.vi" Type="VI" URL="../Grove/I2C Grove 8x8Matrix LED.vi"/>
 			<Item Name="I2C Grove 64x128OLED_SSD1315_Graph.vi" Type="VI" URL="../Grove/I2C Grove 64x128OLED_SSD1315_Graph.vi"/>
 		</Item>
 		<Item Name="Gadgets" Type="Folder">

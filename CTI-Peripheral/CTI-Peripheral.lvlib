@@ -49,7 +49,7 @@
 			</Item>
 			<Item Name="Tests" Type="Folder">
 				<Item Name="ConvertMessageStringToBytes.vi" Type="VI" URL="../I2CLEDMatrix/Tests/ConvertMessageStringToBytes.vi"/>
-				<Item Name="SortMessages.vi" Type="VI" URL="../RGB LED Matrix/Grove 8x8 LED Matrix/Private/SortMessages.vi"/>
+				<Item Name="SortMessages.vi" Type="VI" URL="../I2CLEDMatrix/Tests/SortMessages.vi"/>
 			</Item>
 			<Item Name="GroveI2C8x8MatrixDriver" Type="Folder">
 				<Item Name="Grove I2C Matrix LED Driver.lvclass" Type="LVClass" URL="../I2CLEDMatrix/Grove I2C 8x8LEDMatrix/Grove I2C Matrix LED Driver.lvclass"/>
@@ -115,6 +115,12 @@
 				<Item Name="I2C Thermocouple.lvclass" Type="LVClass" URL="../Analog Input/Grove I2C Sensors/Thermocouple/Base/I2C Thermocouple.lvclass"/>
 			</Item>
 			<Item Name="Grove Thermocouple MCP9600.lvclass" Type="LVClass" URL="../Analog Input/Grove I2C Sensors/Thermocouple/Grove Thermocouple MCP9600.lvclass"/>
+		</Item>
+		<Item Name="VL53L0X Ranging Sensor" Type="Folder">
+			<Item Name="Base" Type="Folder">
+				<Item Name="Ranging Sensor.lvclass" Type="LVClass" URL="../Ranging Sensor/Base/Ranging Sensor.lvclass"/>
+			</Item>
+			<Item Name="Grove Range Sensor VL53L0X .lvclass" Type="LVClass" URL="../Ranging Sensor/Grove Range Sensor VL53L0X .lvclass"/>
 		</Item>
 	</Item>
 	<Item Name="Low Level" Type="Folder"/>

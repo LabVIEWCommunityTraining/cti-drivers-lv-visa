@@ -50,6 +50,14 @@
 				<Item Name="Encoder" Type="Folder">
 					<Item Name="AdafruitSeesawEncoder.vi" Type="VI" URL="../Grove/AdafruitSeesawEncoder.vi"/>
 				</Item>
+				<Item Name="NeoPixel" Type="Folder">
+					<Item Name="SubVIs" Type="Folder">
+						<Item Name="SetNeoPixelColourRing.vi" Type="VI" URL="../Grove/AdafruitSeeSaw/SetNeoPixelColourRing.vi"/>
+						<Item Name="CalculatePattern.vi" Type="VI" URL="../Grove/AdafruitSeeSaw/CalculatePattern.vi"/>
+						<Item Name="NeoPixelRingPatterns.ctl" Type="VI" URL="../Grove/AdafruitSeeSaw/NeoPixelRingPatterns.ctl"/>
+					</Item>
+					<Item Name="AdafruitSeesawNeoPixel.vi" Type="VI" URL="../Grove/AdafruitSeesawNeoPixel.vi"/>
+				</Item>
 			</Item>
 			<Item Name="I2C 6 Axis Gyro Accel LSM6D3.vi" Type="VI" URL="../Grove/I2C 6 Axis Gyro Accel LSM6D3.vi"/>
 			<Item Name="I2C GestureSensor PAJ7620U2.vi" Type="VI" URL="../Grove/I2C GestureSensor PAJ7620U2.vi"/>

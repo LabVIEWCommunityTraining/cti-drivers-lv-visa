@@ -20,6 +20,7 @@
 			<Item Name="I2C An Out 0-20mA(GP8313).vi" Type="VI" URL="../Grove/I2C An Out 0-20mA(GP8313).vi"/>
 		</Item>
 		<Item Name="Demos" Type="Folder">
+			<Item Name="GroveAnalogTestHarness.vi" Type="VI" URL="../Grove/GroveAnalogTestHarness.vi"/>
 			<Item Name="I2C OLEDGestureDemo.vi" Type="VI" URL="../Grove/I2C OLEDGestureDemo.vi"/>
 			<Item Name="I2C Grove TrackerEyeballs.vi" Type="VI" URL="../Grove/I2C Grove TrackerEyeballs.vi"/>
 		</Item>

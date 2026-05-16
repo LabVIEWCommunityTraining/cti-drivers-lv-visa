@@ -62,6 +62,10 @@
 				<Item Name="GPIO" Type="Folder">
 					<Item Name="AdafruitSeesawGPIO.vi" Type="VI" URL="../Grove/AdafruitSeesawGPIO.vi"/>
 				</Item>
+				<Item Name="Analog Ins" Type="Folder"/>
+				<Item Name="PWM Outs" Type="Folder"/>
+				<Item Name="EEPROM" Type="Folder"/>
+				<Item Name="Status" Type="Folder"/>
 			</Item>
 			<Item Name="I2C 6 Axis Gyro Accel LSM6D3.vi" Type="VI" URL="../Grove/I2C 6 Axis Gyro Accel LSM6D3.vi"/>
 			<Item Name="I2C GestureSensor PAJ7620U2.vi" Type="VI" URL="../Grove/I2C GestureSensor PAJ7620U2.vi"/>

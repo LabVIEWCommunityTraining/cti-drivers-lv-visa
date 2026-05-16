@@ -59,6 +59,9 @@
 					</Item>
 					<Item Name="AdafruitSeesawNeoPixel.vi" Type="VI" URL="../Grove/AdafruitSeesawNeoPixel.vi"/>
 				</Item>
+				<Item Name="GPIO" Type="Folder">
+					<Item Name="AdafruitSeesawGPIO.vi" Type="VI" URL="../Grove/AdafruitSeesawGPIO.vi"/>
+				</Item>
 			</Item>
 			<Item Name="I2C 6 Axis Gyro Accel LSM6D3.vi" Type="VI" URL="../Grove/I2C 6 Axis Gyro Accel LSM6D3.vi"/>
 			<Item Name="I2C GestureSensor PAJ7620U2.vi" Type="VI" URL="../Grove/I2C GestureSensor PAJ7620U2.vi"/>

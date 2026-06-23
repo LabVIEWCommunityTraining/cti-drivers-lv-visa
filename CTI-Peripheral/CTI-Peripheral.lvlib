@@ -47,10 +47,7 @@
 			<Item Name="Base" Type="Folder">
 				<Item Name="LEDMatrix.lvclass" Type="LVClass" URL="../I2CLEDMatrix/Base/LEDMatrix.lvclass"/>
 			</Item>
-			<Item Name="Tests" Type="Folder">
-				<Item Name="ConvertMessageStringToBytes.vi" Type="VI" URL="../I2CLEDMatrix/Tests/ConvertMessageStringToBytes.vi"/>
-				<Item Name="SortMessages.vi" Type="VI" URL="../I2CLEDMatrix/Tests/SortMessages.vi"/>
-			</Item>
+			<Item Name="Tests" Type="Folder"/>
 			<Item Name="GroveI2C8x8MatrixDriver" Type="Folder">
 				<Item Name="Grove I2C Matrix LED Driver.lvclass" Type="LVClass" URL="../I2CLEDMatrix/Grove I2C 8x8LEDMatrix/Grove I2C Matrix LED Driver.lvclass"/>
 			</Item>

@@ -117,6 +117,7 @@
 				<Item Name="Bit-array To Byte-array.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/Bit-array To Byte-array.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
+			<Item Name="HRS Utility.vim" Type="VI" URL="../../af-lessons/Servo Motor Project/Hardware Test VIs/Support/HRS Utility.vim"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

@@ -18,6 +18,7 @@
 				<Item Name="I2C An Out M5StackDAC2.vi" Type="VI" URL="../Grove/I2C An Out M5StackDAC2.vi"/>
 			</Item>
 			<Item Name="MCP4018 Pot" Type="Folder"/>
+			<Item Name="I2C MCP4018 Digipot.vi" Type="VI" URL="../Grove/I2C MCP4018 Digipot.vi"/>
 			<Item Name="I2C An Out 0-20mA(GP8313).vi" Type="VI" URL="../Grove/I2C An Out 0-20mA(GP8313).vi"/>
 		</Item>
 		<Item Name="Demos" Type="Folder">
@@ -71,6 +72,7 @@
 			</Item>
 			<Item Name="I2C 6 Axis Gyro Accel LSM6D3.vi" Type="VI" URL="../Grove/I2C 6 Axis Gyro Accel LSM6D3.vi"/>
 			<Item Name="I2C GestureSensor PAJ7620U2.vi" Type="VI" URL="../Grove/I2C GestureSensor PAJ7620U2.vi"/>
+			<Item Name="I2C Mux and Digipots.vi" Type="VI" URL="../Grove/I2C Mux and Digipots.vi"/>
 		</Item>
 		<Item Name="Sensors" Type="Folder">
 			<Item Name="I2C 4 Channel An In ADS1115.vi" Type="VI" URL="../Grove/I2C 4 Channel An In ADS1115.vi"/>
@@ -106,5 +108,4 @@
 	<Item Name="Test ADC Rate.vi" Type="VI" URL="../Test ADC Rate.vi"/>
 	<Item Name="UART Read.vi" Type="VI" URL="../UART Read.vi"/>
 	<Item Name="UART Write.vi" Type="VI" URL="../UART Write.vi"/>
-	<Item Name="I2C MCP4018 Digipot.vi" Type="VI" URL="../Grove/I2C MCP4018 Digipot.vi"/>
 </Library>

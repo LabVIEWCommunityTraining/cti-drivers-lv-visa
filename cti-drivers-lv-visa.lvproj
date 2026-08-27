@@ -118,7 +118,6 @@
 				<Item Name="Trim Whitespace One-Sided.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace One-Sided.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="ConvertArrayToMessagesb.vi" Type="VI" URL="../CTI-Peripheral/I2C OLED/48x64 I2C OLED SSD1306/Private/ConvertArrayToMessagesb.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

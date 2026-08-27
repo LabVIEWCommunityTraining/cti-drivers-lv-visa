@@ -49,6 +49,12 @@
 		<Item Name="AdaFruit Seesaw" Type="Folder">
 			<Item Name="AdaFruit-Seesaw.lvclass" Type="LVClass" URL="../AdaFruit-Seesaw/AdaFruit-Seesaw.lvclass"/>
 		</Item>
+		<Item Name="I2C 8-way Multiplexed Hub" Type="Folder">
+			<Item Name="Base" Type="Folder">
+				<Item Name="I2C MUX.lvclass" Type="LVClass" URL="../Multiplexer/I2C MUX.lvclass"/>
+			</Item>
+			<Item Name="TCA9548A I2C Multiplexer.lvclass" Type="LVClass" URL="../Multiplexer/TCA9548A I2C Multiplexer/TCA9548A I2C Multiplexer.lvclass"/>
+		</Item>
 	</Item>
 	<Item Name="Displays" Type="Folder">
 		<Item Name="8x8LEDMatrix" Type="Folder">

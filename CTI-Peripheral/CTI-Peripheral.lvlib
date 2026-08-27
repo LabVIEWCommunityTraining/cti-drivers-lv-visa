@@ -36,6 +36,14 @@
 				<Item Name="M5StackDAC2.lvclass" Type="LVClass" URL="../Analog Output/Grove An Out/M5StackDAC2/M5StackDAC2.lvclass"/>
 			</Item>
 		</Item>
+		<Item Name="I2C Potentiometer" Type="Folder">
+			<Item Name="MCP4018 Digipot" Type="Folder">
+				<Item Name="MCP4018 Digipot.lvclass" Type="LVClass" URL="../Analog Output/Potentiometer I2C/MCP4018 Digipot/MCP4018 Digipot.lvclass"/>
+			</Item>
+			<Item Name="Base" Type="Folder">
+				<Item Name="Potentiometer I2C.lvclass" Type="LVClass" URL="../Analog Output/Potentiometer I2C/Potentiometer I2C.lvclass"/>
+			</Item>
+		</Item>
 	</Item>
 	<Item Name="Gadgets" Type="Folder">
 		<Item Name="AdaFruit Seesaw" Type="Folder">

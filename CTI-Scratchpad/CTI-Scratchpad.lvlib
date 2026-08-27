@@ -17,6 +17,7 @@
 			<Item Name="M5StackDAC2" Type="Folder">
 				<Item Name="I2C An Out M5StackDAC2.vi" Type="VI" URL="../Grove/I2C An Out M5StackDAC2.vi"/>
 			</Item>
+			<Item Name="MCP4018 Pot" Type="Folder"/>
 			<Item Name="I2C An Out 0-20mA(GP8313).vi" Type="VI" URL="../Grove/I2C An Out 0-20mA(GP8313).vi"/>
 		</Item>
 		<Item Name="Demos" Type="Folder">
@@ -41,6 +42,7 @@
 		</Item>
 		<Item Name="Gadgets" Type="Folder">
 			<Item Name="Motor Drive" Type="Folder">
+				<Item Name="StepperMotorDriveDOs.vi" Type="VI" URL="../Grove/StepperMotorDriveDOs.vi"/>
 				<Item Name="I2C L298P DC Motor Drive.vi" Type="VI" URL="../Grove/I2C L298P DC Motor Drive.vi"/>
 			</Item>
 			<Item Name="I2C Thermal Camera" Type="Folder">
@@ -104,4 +106,5 @@
 	<Item Name="Test ADC Rate.vi" Type="VI" URL="../Test ADC Rate.vi"/>
 	<Item Name="UART Read.vi" Type="VI" URL="../UART Read.vi"/>
 	<Item Name="UART Write.vi" Type="VI" URL="../UART Write.vi"/>
+	<Item Name="I2C MCP4018 Digipot.vi" Type="VI" URL="../Grove/I2C MCP4018 Digipot.vi"/>
 </Library>

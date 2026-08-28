@@ -108,4 +108,5 @@
 	<Item Name="Test ADC Rate.vi" Type="VI" URL="../Test ADC Rate.vi"/>
 	<Item Name="UART Read.vi" Type="VI" URL="../UART Read.vi"/>
 	<Item Name="UART Write.vi" Type="VI" URL="../UART Write.vi"/>
+	<Item Name="I2C Grove AlphaNumeric LED.vi" Type="VI" URL="../Grove/I2C Grove AlphaNumeric LED.vi"/>
 </Library>

@@ -95,6 +95,12 @@
 			</Item>
 			<Item Name="Grove I2C RGB SGM31323.lvclass" Type="LVClass" URL="../RGB I2C/Grove I2C RGB SGM31323/Grove I2C RGB SGM31323.lvclass"/>
 		</Item>
+		<Item Name="Grove -  Quad Alphanumeric Display" Type="Folder">
+			<Item Name="Base" Type="Folder">
+				<Item Name="LEDAlphaNumeric.lvclass" Type="LVClass" URL="../LEDAlphaNumeric/LEDAlphaNumeric.lvclass"/>
+			</Item>
+			<Item Name="HT16K33 LED Driver.lvclass" Type="LVClass" URL="../LEDAlphaNumeric/HT16K33 LED Driver/HT16K33 LED Driver.lvclass"/>
+		</Item>
 	</Item>
 	<Item Name="I2C Sensors" Type="Folder">
 		<Item Name="Accel Gyro Sensor" Type="Folder">

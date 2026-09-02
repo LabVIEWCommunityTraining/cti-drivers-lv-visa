@@ -17,8 +17,9 @@
 			<Item Name="M5StackDAC2" Type="Folder">
 				<Item Name="I2C An Out M5StackDAC2.vi" Type="VI" URL="../Grove/I2C An Out M5StackDAC2.vi"/>
 			</Item>
-			<Item Name="MCP4018 Pot" Type="Folder"/>
-			<Item Name="I2C MCP4018 Digipot.vi" Type="VI" URL="../Grove/I2C MCP4018 Digipot.vi"/>
+			<Item Name="MCP4018 Pot" Type="Folder">
+				<Item Name="I2C MCP4018 Digipot.vi" Type="VI" URL="../Grove/I2C MCP4018 Digipot.vi"/>
+			</Item>
 			<Item Name="I2C An Out 0-20mA(GP8313).vi" Type="VI" URL="../Grove/I2C An Out 0-20mA(GP8313).vi"/>
 		</Item>
 		<Item Name="Demos" Type="Folder">

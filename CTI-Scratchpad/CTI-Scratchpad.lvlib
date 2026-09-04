@@ -81,6 +81,7 @@
 			<Item Name="I2C NAU7802 Strain 24 Bit Gauge.vi" Type="VI" URL="../Grove/I2C NAU7802 Strain 24 Bit Gauge.vi"/>
 			<Item Name="I2C Temperature Humidity Sensor DH20.vi" Type="VI" URL="../Grove/I2C Temperature Humidity Sensor DH20.vi"/>
 			<Item Name="I2C Thermocouple MCP9600.vi" Type="VI" URL="../Grove/I2C Thermocouple MCP9600.vi"/>
+			<Item Name="I2C L76K DFRobot Gravity GPS.vi" Type="VI" URL="../Grove/I2C L76K DFRobot Gravity GPS.vi"/>
 		</Item>
 		<Item Name="Switches" Type="Folder">
 			<Item Name="4ChannelSPDT I2C" Type="Folder">

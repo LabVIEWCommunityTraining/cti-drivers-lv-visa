@@ -139,6 +139,14 @@
 			</Item>
 			<Item Name="Grove Range Sensor VL53L0X .lvclass" Type="LVClass" URL="../Ranging Sensor/Grove Range Sensor VL53L0X .lvclass"/>
 		</Item>
+		<Item Name="GPS" Type="Folder">
+			<Item Name="Base" Type="Folder">
+				<Item Name="GPS.lvclass" Type="LVClass" URL="../GPS/Base/GPS.lvclass"/>
+			</Item>
+			<Item Name="DFRobot_Gravity_GNSS" Type="Folder">
+				<Item Name="DFRobot_Gravity_GNSS.lvclass" Type="LVClass" URL="../GPS/DFRobot_Gravity_GNSS/DFRobot_Gravity_GNSS.lvclass"/>
+			</Item>
+		</Item>
 	</Item>
 	<Item Name="Low Level" Type="Folder"/>
 	<Item Name="Motor Drivers" Type="Folder">

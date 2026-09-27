@@ -21,6 +21,7 @@
 		<Item Name="CTI-Scratchpad.lvlib" Type="Library" URL="../CTI-Scratchpad/CTI-Scratchpad.lvlib"/>
 		<Item Name="CTI-Tools.lvlib" Type="Library" URL="../CTI-Tools/CTI-Tools.lvlib"/>
 		<Item Name="CTI-Peripheral.lvlib" Type="Library" URL="../CTI-Peripheral/CTI-Peripheral.lvlib"/>
+		<Item Name="Wheel of CTI.vi" Type="VI" URL="../../../SOTON University/Encoder/Wheel of CTI.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
@@ -119,6 +120,9 @@
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="GetLatLong.vi" Type="VI" URL="../CTI-Peripheral/GPS/Base/GetLatLong.vi"/>
+			<Item Name="Serial - ASCII Characters.ctl" Type="VI" URL="../../../../../Program Files/National Instruments/LabVIEW 2024/examples/Instrument IO/Serial/support/Serial - ASCII Characters.ctl"/>
+			<Item Name="Serial - XON-XOFF Characters.ctl" Type="VI" URL="../../../../../Program Files/National Instruments/LabVIEW 2024/examples/Instrument IO/Serial/support/Serial - XON-XOFF Characters.ctl"/>
+			<Item Name="Serial - Settings.ctl" Type="VI" URL="../../../../../Program Files/National Instruments/LabVIEW 2024/examples/Instrument IO/Serial/support/Serial - Settings.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

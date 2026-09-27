@@ -54,6 +54,7 @@
 			</Item>
 			<Item Name="AdaFruit Seesaw" Type="Folder">
 				<Item Name="Encoder" Type="Folder">
+					<Item Name="AdafruitANORotaryEncoder-I2C.vi" Type="VI" URL="../Grove/AdafruitANORotaryEncoder-I2C.vi"/>
 					<Item Name="AdafruitSeesawEncoder.vi" Type="VI" URL="../Grove/AdafruitSeesawEncoder.vi"/>
 				</Item>
 				<Item Name="NeoPixel" Type="Folder">

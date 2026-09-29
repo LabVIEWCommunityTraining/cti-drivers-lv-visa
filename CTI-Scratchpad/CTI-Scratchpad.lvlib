@@ -20,7 +20,6 @@
 			<Item Name="MCP4018 Pot" Type="Folder">
 				<Item Name="I2C MCP4018 Digipot.vi" Type="VI" URL="../Grove/I2C MCP4018 Digipot.vi"/>
 			</Item>
-			<Item Name="I2C An Out 0-20mA(GP8313).vi" Type="VI" URL="../Grove/I2C An Out 0-20mA(GP8313).vi"/>
 		</Item>
 		<Item Name="Demos" Type="Folder">
 			<Item Name="GroveAnalogTestHarness.vi" Type="VI" URL="../Grove/GroveAnalogTestHarness.vi"/>

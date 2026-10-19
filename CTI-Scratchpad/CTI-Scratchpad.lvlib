@@ -41,6 +41,7 @@
 			<Item Name="I2C Grove AlphaNumeric LED.vi" Type="VI" URL="../Grove/I2C Grove AlphaNumeric LED.vi"/>
 			<Item Name="I2C Grove 64x48OLED_SSD1306_Graph.vi" Type="VI" URL="../Grove/I2C Grove 64x48OLED_SSD1306_Graph.vi"/>
 			<Item Name="I2C Grove 8x8Matrix LED.vi" Type="VI" URL="../Grove/I2C Grove 8x8Matrix LED.vi"/>
+			<Item Name="I2C Grove 64x128OLED_SSD1315_SpinningCTI.vi" Type="VI" URL="../Grove/I2C Grove 64x128OLED_SSD1315_SpinningCTI.vi"/>
 			<Item Name="I2C Grove 64x128OLED_SSD1315_Graph.vi" Type="VI" URL="../Grove/I2C Grove 64x128OLED_SSD1315_Graph.vi"/>
 		</Item>
 		<Item Name="Gadgets" Type="Folder">

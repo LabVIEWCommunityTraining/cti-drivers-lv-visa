@@ -34,6 +34,7 @@
 			<Item Name="Grove Digital Out.vi" Type="VI" URL="../Grove Digital Out.vi"/>
 		</Item>
 		<Item Name="Displays" Type="Folder">
+			<Item Name="I2C Grove Heltec Lora ESP32 64x128OLED_SSD1315_Graph.vi" Type="VI" URL="../Grove/I2C Grove Heltec Lora ESP32 64x128OLED_SSD1315_Graph.vi"/>
 			<Item Name="Grove RGB I2C LCD Full.vi" Type="VI" URL="../Grove/Grove RGB I2C LCD Full.vi"/>
 			<Item Name="I2C Grove 8x8 Matrix LED Custom.vi" Type="VI" URL="../Grove/I2C Grove 8x8 Matrix LED Custom.vi"/>
 			<Item Name="I2C Grove 8x8 RGB Matrix LED Examples.vi" Type="VI" URL="../Grove/I2C Grove 8x8 RGB Matrix LED Examples.vi"/>

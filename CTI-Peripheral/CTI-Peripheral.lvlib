@@ -133,11 +133,11 @@
 			</Item>
 			<Item Name="Grove Thermocouple MCP9600.lvclass" Type="LVClass" URL="../Analog Input/Grove I2C Sensors/Thermocouple/Grove Thermocouple MCP9600.lvclass"/>
 		</Item>
-		<Item Name="VL53L0X Ranging Sensor" Type="Folder">
+		<Item Name="Ranging Sensor" Type="Folder">
 			<Item Name="Base" Type="Folder">
 				<Item Name="Ranging Sensor.lvclass" Type="LVClass" URL="../Ranging Sensor/Base/Ranging Sensor.lvclass"/>
 			</Item>
-			<Item Name="Grove Range Sensor VL53L0X .lvclass" Type="LVClass" URL="../Ranging Sensor/Grove Range Sensor VL53L0X .lvclass"/>
+			<Item Name="M5Stack UltraSonic Range Sensor.lvclass" Type="LVClass" URL="../Ranging Sensor/M5Stack UltraSonic Range Sensor.lvclass"/>
 		</Item>
 	</Item>
 	<Item Name="Low Level" Type="Folder"/>

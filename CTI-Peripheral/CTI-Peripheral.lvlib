@@ -7,14 +7,11 @@
 	<Item Name="Analog Input" Type="Folder">
 		<Item Name="Grove An In" Type="Folder">
 			<Item Name="I2C" Type="Folder">
-				<Item Name="ADC-ADS1115" Type="Folder">
-					<Item Name="Grove An In ADS1115.lvclass" Type="LVClass" URL="../Analog Input/Grove An In/I2C/ADC-ADS1115/Grove An In ADS1115.lvclass"/>
+				<Item Name="ADC-ADS1x15" Type="Folder">
+					<Item Name="Grove An In ADS1x15.lvclass" Type="LVClass" URL="../Analog Input/Grove An In/I2C/ADC-ADS1115/Grove An In ADS1x15.lvclass"/>
 				</Item>
 				<Item Name="Base" Type="Folder">
 					<Item Name="I2C ADC.lvclass" Type="LVClass" URL="../Analog Input/Grove An In/I2C/Base/I2C ADC.lvclass"/>
-				</Item>
-				<Item Name="NAU7802" Type="Folder">
-					<Item Name="Adafruit NAU7802 24bit Strain Gauge.lvclass" Type="LVClass" URL="../Analog Input/Adafruit I2C Strain Gauge/Adafruit NAU7802 24bit Strain Gauge.lvclass"/>
 				</Item>
 			</Item>
 		</Item>
@@ -154,6 +151,9 @@
 			<Item Name="AS7431 11 Channel Sensor" Type="Folder">
 				<Item Name="AS7431 11 Ch Light Spectrum Sensor.lvclass" Type="LVClass" URL="../I2C Light Spectrum Sensor/AS7431 11 Channel Light Spectrum Sensor/AS7431 11 Ch Light Spectrum Sensor.lvclass"/>
 			</Item>
+		</Item>
+		<Item Name="NAU7802" Type="Folder">
+			<Item Name="Adafruit NAU7802 24bit Strain Gauge.lvclass" Type="LVClass" URL="../Analog Input/Adafruit I2C Strain Gauge/Adafruit NAU7802 24bit Strain Gauge.lvclass"/>
 		</Item>
 	</Item>
 	<Item Name="Low Level" Type="Folder"/>

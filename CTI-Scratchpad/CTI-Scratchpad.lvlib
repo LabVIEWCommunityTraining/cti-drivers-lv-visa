@@ -7,6 +7,9 @@
 	<Item Name="Grove" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Analog Inputs" Type="Folder">
+			<Item Name="I2C An Ins" Type="Folder">
+				<Item Name="I2C 4 Channel An In ADS1x15.vi" Type="VI" URL="../Grove/I2C 4 Channel An In ADS1x15.vi"/>
+			</Item>
 			<Item Name="Grove Thumb Joystick.vi" Type="VI" URL="../Grove/Grove Thumb Joystick.vi"/>
 			<Item Name="Grove Read ADC.vi" Type="VI" URL="../Grove/Grove Read ADC.vi"/>
 		</Item>
@@ -84,7 +87,6 @@
 		</Item>
 		<Item Name="Sensors" Type="Folder">
 			<Item Name="I2C M5Stack Ultrasonic.vi" Type="VI" URL="../Grove/I2C M5Stack Ultrasonic.vi"/>
-			<Item Name="I2C 4 Channel An In ADS1115.vi" Type="VI" URL="../Grove/I2C 4 Channel An In ADS1115.vi"/>
 			<Item Name="I2C NAU7802 Strain 24 Bit Gauge.vi" Type="VI" URL="../Grove/I2C NAU7802 Strain 24 Bit Gauge.vi"/>
 			<Item Name="I2C Temperature Humidity Sensor DH20.vi" Type="VI" URL="../Grove/I2C Temperature Humidity Sensor DH20.vi"/>
 			<Item Name="I2C Thermocouple MCP9600.vi" Type="VI" URL="../Grove/I2C Thermocouple MCP9600.vi"/>

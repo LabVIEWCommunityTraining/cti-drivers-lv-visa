@@ -36,6 +36,14 @@
 				<Item Name="Potentiometer I2C.lvclass" Type="LVClass" URL="../Analog Output/Potentiometer I2C/Potentiometer I2C.lvclass"/>
 			</Item>
 		</Item>
+		<Item Name="I2C Servo" Type="Folder">
+			<Item Name="Base" Type="Folder">
+				<Item Name="I2C PWM.lvclass" Type="LVClass" URL="../Analog Output/I2C PWM/I2C PWM.lvclass"/>
+			</Item>
+			<Item Name="M5StackI2CServo" Type="Folder">
+				<Item Name="M5Stack I2C 8Ch Servo.lvclass" Type="LVClass" URL="../Analog Output/I2C PWM/M5Stack I2C 8Ch PWM/M5Stack I2C 8Ch Servo.lvclass"/>
+			</Item>
+		</Item>
 	</Item>
 	<Item Name="Gadgets" Type="Folder">
 		<Item Name="AdaFruit Seesaw" Type="Folder">
@@ -138,6 +146,14 @@
 				<Item Name="Ranging Sensor.lvclass" Type="LVClass" URL="../Ranging Sensor/Base/Ranging Sensor.lvclass"/>
 			</Item>
 			<Item Name="M5Stack UltraSonic Range Sensor.lvclass" Type="LVClass" URL="../Ranging Sensor/M5Stack UltraSonic Range Sensor.lvclass"/>
+		</Item>
+		<Item Name="Light Spectrum Sensor" Type="Folder">
+			<Item Name="Base" Type="Folder">
+				<Item Name="I2C Light Spectrum Sensor.lvclass" Type="LVClass" URL="../I2C Light Spectrum Sensor/Base/I2C Light Spectrum Sensor.lvclass"/>
+			</Item>
+			<Item Name="AS7431 11 Channel Sensor" Type="Folder">
+				<Item Name="AS7431 11 Ch Light Spectrum Sensor.lvclass" Type="LVClass" URL="../I2C Light Spectrum Sensor/AS7431 11 Channel Light Spectrum Sensor/AS7431 11 Ch Light Spectrum Sensor.lvclass"/>
+			</Item>
 		</Item>
 	</Item>
 	<Item Name="Low Level" Type="Folder"/>

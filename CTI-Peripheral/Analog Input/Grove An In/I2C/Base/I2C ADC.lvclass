@@ -14,17 +14,7 @@
 
 </Property>
 	<Item Name="Data Types" Type="Folder">
-		<Item Name="Enums" Type="Folder">
-			<Item Name="Gesture.ctl" Type="VI" URL="../Gesture.ctl">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#F!!!!!1#&gt;!0%!!!!!!!!!!R2$6%EN5'6S;8"I:8*B&lt;#ZM&gt;GRJ9B:(:8.U&gt;8*F)&amp;.F&lt;H.P=CZM&gt;G.M98.T#U&gt;F=X2V=G5O9X2M!&amp;V!&amp;A!*#EZP)%&gt;F=X2V=G5#68!%2'^X&lt;A2-:7:U"6*J:WBU"U:P=H&gt;B=G1)1G&amp;D;X&gt;B=G1*1WRP9WNX;8.F%%.P&gt;7ZU:8*D&lt;'^D;X&gt;J=W5!"U&gt;F=X2V=G5!!1!!!!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
-			</Item>
-		</Item>
+		<Item Name="Enums" Type="Folder"/>
 	</Item>
 	<Item Name="Properties" Type="Folder"/>
 	<Item Name="Read ADC.vi" Type="VI" URL="../Read ADC.vi">

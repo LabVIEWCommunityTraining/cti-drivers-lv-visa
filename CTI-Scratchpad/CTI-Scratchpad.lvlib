@@ -11,6 +11,9 @@
 			<Item Name="Grove Read ADC.vi" Type="VI" URL="../Grove/Grove Read ADC.vi"/>
 		</Item>
 		<Item Name="Analog Output PWM" Type="Folder">
+			<Item Name="I2C M5Stack 8 Channel Servo" Type="Folder">
+				<Item Name="I2C An Out M5Stack8ChServo.vi" Type="VI" URL="../Grove/I2C An Out M5Stack8ChServo.vi"/>
+			</Item>
 			<Item Name="Piano PWM AO.vi" Type="VI" URL="../Grove/Piano PWM AO.vi"/>
 		</Item>
 		<Item Name="Analog Outputs" Type="Folder">

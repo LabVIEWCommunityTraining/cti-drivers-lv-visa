@@ -7,4 +7,5 @@
 		<Item Name="Format LVBlock Source.vim" Type="VI" URL="../Format LVBlock Source.vim"/>
 	</Item>
 	<Item Name="Build Available Resource Sources.vi" Type="VI" URL="../Build Available Resource Sources.vi"/>
+	<Item Name="ConvertDefinitionToRing.vi" Type="VI" URL="../ConvertDefinitionToRing.vi"/>
 </Library>

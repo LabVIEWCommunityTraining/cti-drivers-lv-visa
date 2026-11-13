@@ -15,6 +15,7 @@
 		</Item>
 		<Item Name="Analog Output PWM" Type="Folder">
 			<Item Name="I2C M5Stack 8 Channel Servo" Type="Folder">
+				<Item Name="I2C An Out M5Stack8ChServo6DOFRobot.vi" Type="VI" URL="../Grove/I2C An Out M5Stack8ChServo6DOFRobot.vi"/>
 				<Item Name="I2C An Out M5Stack8ChServo.vi" Type="VI" URL="../Grove/I2C An Out M5Stack8ChServo.vi"/>
 			</Item>
 			<Item Name="Piano PWM AO.vi" Type="VI" URL="../Grove/Piano PWM AO.vi"/>
@@ -40,6 +41,10 @@
 			<Item Name="Grove Digital Out.vi" Type="VI" URL="../Grove Digital Out.vi"/>
 		</Item>
 		<Item Name="Displays" Type="Folder">
+			<Item Name="WS2813SubVIs" Type="Folder">
+				<Item Name="Byte_To_SPI_Data.vi" Type="VI" URL="../Grove/WS2813/Byte_To_SPI_Data.vi"/>
+				<Item Name="Create_Data_For_WS2813.vi" Type="VI" URL="../Grove/WS2813/Create_Data_For_WS2813.vi"/>
+			</Item>
 			<Item Name="I2C Grove Heltec Lora ESP32 64x128OLED_SSD1315_Graph.vi" Type="VI" URL="../Grove/I2C Grove Heltec Lora ESP32 64x128OLED_SSD1315_Graph.vi"/>
 			<Item Name="Grove RGB I2C LCD Full.vi" Type="VI" URL="../Grove/Grove RGB I2C LCD Full.vi"/>
 			<Item Name="I2C Grove 8x8 Matrix LED Custom.vi" Type="VI" URL="../Grove/I2C Grove 8x8 Matrix LED Custom.vi"/>
@@ -49,6 +54,7 @@
 			<Item Name="I2C Grove 8x8Matrix LED.vi" Type="VI" URL="../Grove/I2C Grove 8x8Matrix LED.vi"/>
 			<Item Name="I2C Grove 64x128OLED_SSD1315_SpinningCTI.vi" Type="VI" URL="../Grove/I2C Grove 64x128OLED_SSD1315_SpinningCTI.vi"/>
 			<Item Name="I2C Grove 64x128OLED_SSD1315_Graph.vi" Type="VI" URL="../Grove/I2C Grove 64x128OLED_SSD1315_Graph.vi"/>
+			<Item Name="SPI_Write_Byte_to_color_led_ws2813.vi" Type="VI" URL="../Grove/SPI_Write_Byte_to_color_led_ws2813.vi"/>
 		</Item>
 		<Item Name="Gadgets" Type="Folder">
 			<Item Name="Motor Drive" Type="Folder">
